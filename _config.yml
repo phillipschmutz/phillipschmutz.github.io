@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7243-4815"
   semantic         : # URL
-  pubmed           : "https://www.researchgate.net/profile/Phillip-Schmutz-2"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Phillip-Schmutz-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
