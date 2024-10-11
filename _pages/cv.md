@@ -3,15 +3,15 @@ title: "CV"
 permalink: /cv/
 ---
 
-Education
-======
+### Education
+
 * Ph.D.: Louisiana State University, 2014
 * M.S.: Louisiana State University, 2007
 * B.S.: Baylor University, 2004
 
 
-Work experience
-======
+### Work experience
+
 - Fall 2022 - present
   - Department Chair
   - Department of Earth and Environmental Sciences
@@ -33,8 +33,8 @@ Work experience
   - Texas A&M University
   
   
-Skills
-======
+### Skills
+
 * Programming Languages:
   * R (novice)
   * Python (elementary)
