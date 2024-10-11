@@ -22,7 +22,7 @@ repository               : "phillipschmutz/phillipschmutz.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "-"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor and Chair Department of Earth and Environmental Sciences"
   location         : "Pensacola, Florida"
