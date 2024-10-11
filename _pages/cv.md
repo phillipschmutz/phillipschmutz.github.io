@@ -3,8 +3,6 @@ title: "CV"
 permalink: /cv/
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D.: Louisiana State University, 2014
