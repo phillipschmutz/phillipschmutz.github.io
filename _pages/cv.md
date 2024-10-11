@@ -11,26 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D.: Louisiana State University, 2014
+* M.S.: Louisiana State University, 2007
+* B.S.: Baylor University, 2004
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Fall 2022 - present
+  - Department Chair
+  - Department of Environmental Studies
+  - University of West Florida
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Fall 2021 - present
+  - Associate Professor
+  - Department of Environmental Studies
+  - University of West Florida
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Fall 2015 - Fall 2021
+  - Assistant Professor
+  - Department of Environmental Studies
+  - University of West Florida
+
+- Spring 2015 -Fall 2015
+  - Postdoctoral Research Associate
+  - Department of Geology and Geophysics
+  - Texas A&M University
+  
   
 Skills
 ======
@@ -41,24 +48,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
