@@ -35,11 +35,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * R (novice)
+  * Python (elementary)
+* GIS - Geographic Information Systems
+  * ArcGIS Pro
+  * ArcGIS 10
+* UAV Structure from Motion (SfM)
+  * Agisoft Metashape
+  * Pix4D Mapper
 
 
