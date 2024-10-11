@@ -14,17 +14,17 @@ Work experience
 ======
 - Fall 2022 - present
   - Department Chair
-  - Department of Environmental Studies
+  - Department of Earth and Environmental Sciences
   - University of West Florida
 
 - Fall 2021 - present
   - Associate Professor
-  - Department of Environmental Studies
+  - Department of Earth and Environmental Sciences
   - University of West Florida
 
 - Fall 2015 - Fall 2021
   - Assistant Professor
-  - Department of Environmental Studies
+  - Department of Earth and Environmental Sciences
   - University of West Florida
 
 - Spring 2015 -Fall 2015
