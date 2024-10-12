@@ -36,7 +36,7 @@ permalink: /cv/
 ### Skills
 
 * Programming Languages:
-  * R (novice)
+  * R (intermediate)
   * Python (elementary)
 * GIS - Geographic Information Systems
   * ArcGIS Pro
