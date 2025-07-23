@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 ## Dr. Phillip P. Schmutz
 Associate Professor and Department Chair, Department of Earth & Env. Sciences
 
@@ -20,7 +19,7 @@ Associate Professor and Department Chair, Department of Earth & Env. Sciences
 - Topical: Coastal & Aeolian Geomorphology, 
 - Systematic: Dune Restoration, Sea Turtle Nesting Habitat, Unoccupied Aerial Vehicles (UAV’s), Instrumentation Development & Design, Numerical Modeling
 
-### Work experience:
+### Work Experience:
 - Fall 2022 - present
   - Department Chair
   - Department of Earth and Environmental Sciences
