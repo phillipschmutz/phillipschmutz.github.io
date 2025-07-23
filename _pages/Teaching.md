@@ -8,6 +8,6 @@ collection: teaching
 
 {% include base_path %}
 
-{% for post in site.teaching %}
-  {% include archive-single.html %}
+{% for course in site.teaching %}
+[{{ course.title }}]({{ course.url | relative_url }})
 {% endfor %}
