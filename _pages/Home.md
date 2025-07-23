@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Dr. Phillip P. Schmutz
 Associate Professor and Department Chair
 Department of Earth & Env. Sciences
