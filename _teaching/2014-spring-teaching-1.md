@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "GEO 3210 Geomorphology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/GEO3210
+venue: "University of West Florida, EES"       
+date: 2025-08-15                              
+location: "Pensacola, FL"                      
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course focuses on the description of landforms and landscapes on the Earth's surface, along with a systematic analysis of the geomorphic processes that produce them. Emphasis is placed on the climatic and geologic controls on landscape evolution.
 
-Heading 1
-======
+## Course Materials
 
-Heading 2
-======
-
-Heading 3
-======
