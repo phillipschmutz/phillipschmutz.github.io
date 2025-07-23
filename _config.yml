@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : ""
-  pronouns         : "he/him/his"  
-  bio              : "Associate Professor and Chair Department of Earth and Environmental Sciences"
-  location         : "Pensacola, Florida"
-  employer         : "University of West Florida"
+  pronouns         : ""  
+  bio              : ""
+  location         : ""
+  employer         : ""
   uri              : # URL
   email            : "pschmutz@uwf.edu" 
 
