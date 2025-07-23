@@ -75,11 +75,11 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  manuscripts:
+    title: 'Peer-Reviewed Manuscripts' 
   book-chapters:
     title: 'Book Chapters'
-  manuscripts:
-    title: 'Journal Articles'    
-
+   
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -215,7 +215,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publication/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -237,6 +237,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: ""
@@ -244,6 +245,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   # _teaching
   - scope:
       path: ""
@@ -253,7 +255,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+
+  # _publications (individual publication entries)
   - scope:
       path: ""
       type: publications
@@ -262,6 +265,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+  # Publications.md index page (needs to list all publications)
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: collection
+
   # _portfolio
   - scope:
       path: ""
@@ -271,6 +282,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
   # _talks
   - scope:
       path: ""
@@ -279,6 +291,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 
 # Sass/SCSS
