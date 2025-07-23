@@ -293,6 +293,16 @@ defaults:
       share: true
 
 
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Research Lab"
+    url: "/lab/"
+
 
 # Sass/SCSS
 sass:
