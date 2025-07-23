@@ -17,3 +17,5 @@ author_profile: true
 </ul>
 
 <p><strong>Number of publications:</strong> {{ site.publications | size }}</p>
+<p>Number of publications: {{ site.publications | size }}</p>
+
