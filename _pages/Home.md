@@ -9,13 +9,12 @@ redirect_from:
 
 
 ## Dr. Phillip P. Schmutz
-Associate Professor and Department Chair
-Department of Earth & Env. Sciences
+Associate Professor and Department Chair, Department of Earth & Env. Sciences
 
 ### Education:
-Ph.D.: Louisiana State University, 2014
-M.S.: Louisiana State University, 2007
-B.S.: Baylor University, 2004
+- *Ph.D.*: Louisiana State University, 2014
+- *M.S.*: Louisiana State University, 2007
+- *B.S.*: Baylor University, 2004
 
 ### Research Interests: 
 - Topical: Coastal & Aeolian Geomorphology, 
