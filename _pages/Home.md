@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 ## Dr. Phillip P. Schmutz (he/him/his)
-
-Associate Professor and Department Chair
+Associate Professor and Department Chair <br>
 Department of Earth & Env. Sciences
 
 ### Education:
