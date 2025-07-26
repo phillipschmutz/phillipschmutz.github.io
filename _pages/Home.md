@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 ## Dr. Phillip P. Schmutz (he/him/his)
-Associate Professor and Department Chair, Department of Earth & Env. Sciences
+
+Associate Professor and Department Chair
+Department of Earth & Env. Sciences
 
 ### Education:
 - *Ph.D.*: Louisiana State University, 2014
