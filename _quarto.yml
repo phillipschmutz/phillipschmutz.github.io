@@ -15,7 +15,7 @@ website:
       - text: "Publications"
         href: publications.qmd
       - text: "Courses"
-        href: 
+        href: courses.qmd
       - text: "Research Labs"
         menu:
           - text: "Computational Geomorphology and Modeling (CGM) Lab"
