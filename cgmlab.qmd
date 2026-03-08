@@ -14,7 +14,6 @@ The lab also serves as a training environment for undergraduate and graduate stu
 
 **The CGM Lab is actively seeking motivated graduate and undergraduate students interested in quantitative, computational, and field-based geomorphology** 
 
----
 
 ### Visit the [CGM Lab webpage](https://cgmlabuwf.github.io) for more information
 

@@ -10,4 +10,6 @@ The lab supports undergraduate and graduate research projects focused on beach--
 
 **CES Lab is actively seeking motivated graduate and undergraduate students interested in coastal geomorphology and human--environment systems!**
 
-------------------------------------------------------------------------
+
+### Visit the [CES Lab webpage](https://coastal-ecogeomorphic-systems-lab.github.io/CES-Lab/) for more information
+
