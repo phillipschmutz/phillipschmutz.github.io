@@ -1,1 +1,46 @@
-/* css styles */
+* {
+  font-family: Arial !important;
+}
+
+.navbar {
+  background-color: #004C97 !important;
+}
+
+h1, h2, h3 {
+  color: #004C97;
+}
+
+a {
+  color: #004C97;
+}
+
+a:hover {
+  color: #8DC8E8;
+}
+
+/* Widen and left-weight the main page area */
+#quarto-content .page-columns {
+  grid-template-columns:
+    [screen-start] 1rem
+    [page-start] minmax(0, 75vw)
+    [page-end] 1fr
+    [screen-end];
+}
+
+#quarto-content main.content {
+  grid-column: page-start / page-end;
+}
+
+sup {
+  font-size: 0.7em;
+  font-weight: normal;
+}
+
+.profile-circle {
+  width: 200px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 20%;
+  border: 3px solid #004C97;
+}

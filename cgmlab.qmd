@@ -1,0 +1,21 @@
+---
+title: "Computational Geomorphology and Modeling Lab"
+---
+
+
+The ***Computational Geomorphology and Modeling Lab*** focuses on using quantitative and statistical methods to address fundamental questions in geomorphology, with particular emphasis on coastal and aeolian systems. The lab integrates field-based measurements, high-resolution topographic data (e.g., LiDAR, UAS-derived surfaces, terrestrial laser scanning), and computational analysis to examine geomorphic processes across space and time.
+
+Research emphasizes statistical modeling, spatial analysis, and reproducible workflows to evaluate relationships among landform morphology, sediment transport, and environmental drivers. Projects are grounded in hypothesis-driven analyses that use inferential statistics, uncertainty assessment, and model evaluation to understand geomorphic variability and process–response relationships, while also incorporating machine learning and time-series analysis to examine temporal dynamics, nonlinear relationships, and patterns in long-term environmental datasets.
+
+Current work includes quantitative analyses of beach–dune morphodynamics, aeolian sediment transport, species distribution modeling of sea turtle nesting behavior, and beach wrack as natural infrastructure. Tools such as R and GIS are used extensively for data management, visualization, statistical modeling, and synthesis of monitoring datasets.
+
+The lab also serves as a training environment for undergraduate and graduate students to build quantitative literacy through field data collection, data management, statistical reasoning, and interpretation of complex environmental datasets, supporting applications to coastal resilience and environmental management.
+
+
+**The CGM Lab is actively seeking motivated graduate and undergraduate students interested in quantitative, computational, and field-based geomorphology** 
+
+---
+
+### Visit the [CGM Lab webpage](https://cgmlabuwf.github.io) for more information
+
+

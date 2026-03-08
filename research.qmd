@@ -1,0 +1,37 @@
+---
+title: "Current Reserach"
+---
+
+::: grid
+::: g-col-4
+### Sea Turtle Nesting Species Distribution Modeling
+
+This project uses spatial and statistical analyses to examine sea turtle nesting behavior, with a focus on how beach and dune morphology influences nest-site selection at fine spatial scales. By integrating long-term nesting records with high-resolution topographic data, the research evaluates how geomorphic variability shapes nesting decisions across developed and undeveloped coastlines. The results support habitat conservation and coastal management by linking physical coastal processes to ecological decision-making in dynamic beach--dune environments.
+
+[Learn More](turles.qmd)
+:::
+
+::: g-col-4
+### Beach Wrack as a Nature-Based Solution to Dune Restoration
+
+This project examines beach wrack (e.g., seaweed and organic debris) as a form of natural infrastructure, focusing on how wrack presence, removal, or redistribution influence wind flow, sediment trapping, and beach--dune feedbacks. Through field-based measurements, the study evaluates how wrack alters near-surface aerodynamics and sediment transport processes that contribute to beach-dune development and stabilization. By linking physical processes with management practices, this research provides empirical guidance for nature-based dune restoration and coastal hazard mitigation strategies under increasing disturbance and sea-level rise.
+
+[Learn More](wrack.qmd)
+:::
+
+::: g-col-4
+### Ecogeomorphic Controls on Coastal Dune Morphology
+
+This project investigates how vegetation composition, spatial structure, and sediment characteristics interact to shape coastal dune morphology and influence restoration effectiveness across managed and unmanaged dune systems. Using integrated field surveys of vegetation, sediment properties, and dune topography collected along \~60 km of coastline, the research examines ecogeomorphic feedbacks at a regional scale. The resulting analyses and statistical modeling provide insights to better evaluate and inform nature-based coastal management and restoration strategies under increasing climate and disturbance pressures.
+
+[Learn More](dunes.qmd)
+:::
+
+::: g-col-4
+### Vegetation Recovery in a Trampled Dune Systems
+
+This project investigates the recovery of coastal dune vegetation following human trampling disturbance. Building on previous work by [Hesp et al., 2009](https://doi.org/10.1016/j.aeolia.2010.03.001), multiple trampling profile treatments were applied across the dune system. The trampled dune profiles will be revisited monthly for one year to quantify vegetation recovery, changes in species composition, and spatial patterns of regrowth. By examining recovery trajectories over time, the study will provide insight into the resilience of dune vegetation and the ecological timescales required for dune systems to recover from recreational disturbance.
+
+[Learn More](trampling.qmd)
+:::
+:::
