@@ -12,7 +12,7 @@ title: "Dr. Phillip P. Schmutz (he/him/his)"
 ::: {.column width="2%"}
 :::
 
-::: {.column width="7a5%"}
+::: {.column width="75%"}
 I am an Associate Professor and Chair of the Department of Earth and Environmental Sciences at the University of West Florida.
 
 My research focuses on coastal and aeolian geomorphology, with particular emphasis on beach--dune systems and the processes that influence sediment transport, dune development, and coastal resilience.
