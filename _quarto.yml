@@ -18,10 +18,10 @@ website:
         href: courses.qmd
       - text: "Research Labs"
         menu:
+          - text: "Coastal Ecogeomorphic Systems (CES) Lab"
+            href: ceslab.qmd  
           - text: "Computational Geomorphology and Modeling (CGM) Lab"
             href: cgmlab.qmd
-          - text: "Coastal Ecogeomorphic Systems (CES) Lab"
-            href: ceslab.qmd   
 
   page-footer:
     right: "© pschmutz, University of West Florida"
