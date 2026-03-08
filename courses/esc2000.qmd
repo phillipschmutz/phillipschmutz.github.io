@@ -2,4 +2,23 @@
 title: "ESC 2000 - Intro to Earth Science"
 ---
 
+## Course Overview
+
+Using the scientific method, critical thinking skills, data analysis, this course will examine the fundamental processes of the Earth system, composed of an atmosphere, hydrosphere, lithosphere, biosphere, and exosphere, through time. The course will also explore interactions between these spheres, including critical analysis of scientific theories and emphasize Earth’s connections with humans.
+
+
+## Topics
+
+
+## Course Materials
+- [Syllabus](courses/esc2000.qmd)
+- [Calendar](courses/esc2000.qmd)
+
+- Textbook: [Introduction to Earth Science, Second Edition, Laura Neser](https://pressbooks.lib.vt.edu/introearthscience2e/front-matter/acknowledgments/)
+
+## Assignments
+- Exams
+- Earth Science Today
+
+
 

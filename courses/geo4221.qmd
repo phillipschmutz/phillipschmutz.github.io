@@ -2,4 +2,29 @@
 title: "GEO 4221 - Coastal Morphology"
 ---
 
+## Course Overview
+
+This course is an introduction to the world's coastal landforms, with emphasis upon dominant processes (especially waves, tides, and currents), geographical variations, human impacts and policies, and environmental concerns. 
+
+## Topics
+- History of Coastal Science
+- Waves
+- Sea-Level Variations
+- Tides & Tidal Currents
+- Rocky Coasts
+- Barrier Islands
+- Beach and Dune Environments
+- Wetlands and Estuaries
+- Coastal Management
+
+## Course Materials
+- [Syllabus](courses/geo4221.qmd)
+- [Calendar](courses/geo4221.qmd)
+
+- Textbook: [Introduction to Coastal Processes and Geomorphology, Second Edition, Masselink, Hughes, and Knight](https://doi.org/10.4324/9780203785461)
+
+## Assignments
+- Seminar (Paper Discussion) Days
+- History of Coastal Geomorphology Presentation
+
 
