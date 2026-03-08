@@ -1,0 +1,19 @@
+---
+title: "Courses"
+---
+
+## Undergraduate Courses
+
+- [ESC 2000: Introduction to Earth Science](courses/esc2000.qmd)
+- [GEO 3210: Geomorphology](courses/geo3210.qmd)
+- [GEO 3210L: Geomorphology Lab](courses/geo3210lab.qmd)
+- [GEO 4221: Coastal Morphology](courses/geo4221.qmd)
+- [GEO 4221L: Coastal Morphology Lab](courses/geo4221lab.qmd)
+- [GEO 4214: Aeolian Geomorphology](courses/geo4214.qmd)
+
+## Graduate Courses
+
+- [GEO 5225: Coastal Morphology](courses/geo5225.qmd)
+- [GEO 5225L: Coastal Morphology Lab](courses/geo5225lab.qmd)
+- [GEO 5216: Aeolian Geomorphology](courses/geo5216.qmd)
+- [GEO 6118](courses/geo6118.qmd)

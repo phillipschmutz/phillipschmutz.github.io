@@ -15,21 +15,7 @@ website:
       - text: "Publications"
         href: publications.qmd
       - text: "Courses"
-        menu:
-          - text: "ESC 2000"
-            href: esc2000.qmd
-          - text: "GEO 3210"
-            href: geo3210.qmd
-          - text: "GEO 3210 Lab"
-            href: geo3210lab.qmd
-          - text: "GEO 4221"
-            href: geo4221.qmd
-          - text: "GEO 4221 Lab"
-            href: geo3210.qmd
-          - text: "GEO 4214"
-            href: geo4214.qmd
-          - text: "GEO 6118"
-            href: geo6118.qmd
+        href: 
       - text: "Research Labs"
         menu:
           - text: "Computational Geomorphology and Modeling (CGM) Lab"
