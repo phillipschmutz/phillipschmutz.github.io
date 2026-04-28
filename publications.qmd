@@ -48,4 +48,6 @@ Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, 
 
 ### In Review
 
-Cox, D., **P.P. Schmutz**, and S.R. Seals. In Review (2026). Modeling Sea Turtle Nesting Probability: Evaluating Loggerhead Nest Site Selection Using Presence--Pseudo-Absence Data. *Ecosphere*.
+Cox, D.<sup>G</sup>, **P.P. Schmutz**, and S.R. Seals. In Review (2026). Modeling Sea Turtle Nesting Probability: Evaluating Loggerhead Nest Site Selection Using Presence--Pseudo-Absence Data. *Ecosphere*.
+
+Agin, J.<sup>UG</sup>, **P.P. Schmutz**, P. Tereszkiewicz, and S.R. Seals. In Review (2026). Wrack as Dynamic Roughness: Controls on Wind Reduction and Sediment Deposition. *Aeolian Research*.
