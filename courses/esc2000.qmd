@@ -8,11 +8,36 @@ Using the scientific method, critical thinking skills, data analysis, this cours
 
 
 ## Topics
-
+::: grid
+::: g-col-4
+Plate Tectonics
+Minerals
+Rocks [Igneous, Sedimentary, & Metamorphic]
+Volcanoes
+Earthquakes
+Faulting & Folding
+Geologic Time
+Weathering & Mass Movements
+Soils
+Hydrologic Cycle & Rivers
+Groundwater
+Karst
+Deserts & Dunes
+Beaches & Shorelines
+Ocean Water
+Waves, Currents & Tides
+Atmosphere & Air Pollution
+Global Heat Balance
+Atmospheric Moisture
+Wind
+Weather Patterns
+Severe Weather
+Climate Change
+:::
 
 ## Course Materials
-- [Syllabus](courses/esc2000.qmd)
-- [Calendar](courses/esc2000.qmd)
+- [Syllabus](https://docs.google.com/document/d/11UK2SpMEkLBVijIOnkyEnjovlzUDxkfNemMPfxadqi4/edit?usp=sharing)
+- [Calendar](https://docs.google.com/document/d/1CKAqJ3m8fUQ2SfXfnYorKK_bk40zDVi-rCueGuMFrls/edit?usp=sharing)
 
 - Textbook: [Introduction to Earth Science, Second Edition, Laura Neser](https://pressbooks.lib.vt.edu/introearthscience2e/front-matter/acknowledgments/)
 
