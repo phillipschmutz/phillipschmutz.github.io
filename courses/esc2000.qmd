@@ -17,6 +17,9 @@ Volcanoes
 Earthquakes
 Faulting & Folding
 Geologic Time
+:::
+
+::: g-col-3
 Weathering & Mass Movements
 Soils
 Hydrologic Cycle & Rivers
@@ -26,6 +29,9 @@ Deserts & Dunes
 Beaches & Shorelines
 Ocean Water
 Waves, Currents & Tides
+:::
+
+::: g-col-3
 Atmosphere & Air Pollution
 Global Heat Balance
 Atmospheric Moisture
@@ -33,7 +39,6 @@ Wind
 Weather Patterns
 Severe Weather
 Climate Change
-
 :::
 :::
 
