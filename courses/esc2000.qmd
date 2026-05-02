@@ -10,35 +10,35 @@ Using the scientific method, critical thinking skills, data analysis, this cours
 ## Topics
 ::: grid
 ::: g-col-3
-Plate Tectonics
-Minerals
-Rocks [Igneous, Sedimentary, & Metamorphic]
-Volcanoes
-Earthquakes
-Faulting & Folding
-Geologic Time
+- Plate Tectonics
+- Minerals
+- Rocks [Igneous, Sedimentary, & Metamorphic]
+- Volcanoes
+- Earthquakes
+- Faulting & Folding
+- Geologic Time
 :::
 
 ::: g-col-3
-Weathering & Mass Movements
-Soils
-Hydrologic Cycle & Rivers
-Groundwater
-Karst
-Deserts & Dunes
-Beaches & Shorelines
-Ocean Water
-Waves, Currents & Tides
+- Weathering & Mass Movements
+- Soils
+- Hydrologic Cycle & Rivers
+- Groundwater
+- Karst
+- Deserts & Dunes
+- Beaches & Shorelines
+- Ocean Water
+- Waves, Currents & Tides
 :::
 
 ::: g-col-3
-Atmosphere & Air Pollution
-Global Heat Balance
-Atmospheric Moisture
-Wind
-Weather Patterns
-Severe Weather
-Climate Change
+- Atmosphere & Air Pollution
+- Global Heat Balance
+- Atmospheric Moisture
+- Wind
+- Weather Patterns
+- Severe Weather
+- Climate Change
 :::
 :::
 
