@@ -9,7 +9,7 @@ Using the scientific method, critical thinking skills, data analysis, this cours
 
 ## Topics
 ::: grid
-::: g-col-3
+::: g-col-4
 - Plate Tectonics
 - Minerals
 - Rocks [Igneous, Sedimentary, & Metamorphic]
@@ -19,7 +19,7 @@ Using the scientific method, critical thinking skills, data analysis, this cours
 - Geologic Time
 :::
 
-::: g-col-3
+::: g-col-4
 - Weathering & Mass Movements
 - Soils
 - Hydrologic Cycle & Rivers
@@ -31,7 +31,7 @@ Using the scientific method, critical thinking skills, data analysis, this cours
 - Waves, Currents & Tides
 :::
 
-::: g-col-3
+::: g-col-4
 - Atmosphere & Air Pollution
 - Global Heat Balance
 - Atmospheric Moisture
