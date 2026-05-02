@@ -9,7 +9,7 @@ Using the scientific method, critical thinking skills, data analysis, this cours
 
 ## Topics
 ::: grid
-::: g-col-4
+::: g-col-3
 Plate Tectonics
 Minerals
 Rocks [Igneous, Sedimentary, & Metamorphic]
@@ -33,6 +33,7 @@ Wind
 Weather Patterns
 Severe Weather
 Climate Change
+
 :::
 
 ## Course Materials
