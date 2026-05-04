@@ -2,4 +2,47 @@
 title: "GEO 4214 - Aeolian Geomorphology"
 ---
 
+## Course Overview
+
+This course focuses on aeolian (wind) processes that influence coastal and arid environments. Major themes in the course will be: 1) atmospheric controls on the location of arid environments; 2) the physics of sediment transport by wind; 3) modeling techniques used in aeolian geomorphology; 4) dune classifications and dune dynamics; and 5) desertification and climate change impacts on aeolian environments.
+
+
+## Student Learning Objectives (SLOs)
+- Outline the influence of global atmospheric circulation patterns on arid and semi-arid environments
+- Describe the classification schemes of dunes and the key processes of dune dynamics
+- Articulate how scientists’ model aeolian systems: from small scale to large scale
+- Summarize how arid and coastal dune systems respond to climate change forcing
+- Analyze sediment transport processes
+
+
+## Topics
+::: grid
+::: g-col-6
+
+
+:::
+
+::: g-col-6
+
+:::
+
+:::
+
+## Course Materials
+- [Syllabus]()
+- [Calendar]()
+
+- Textbook: No required Textbook.
+
+  - *Supplementary texts:*
+    
+    - Aeolian Geomorphology by I. Livingston and A. Warren (1996), Longman
+    - Dunes: Dynamics, Morphology, History by A. Warren (2013), Wiley-Blackwell
+    - Geomorphology of Desert Dunes by N. Lancaster (1995), Routledge
+    - Deserts: A Very Short Introduction by Nick Middleton (2009), Oxford
+
+## Assignments
+- Two Exams [60% -- 30% each]
+- Seminar Days: Article Synopsis & Discussion [15%]
+- Desert/Dune System Project [25%]
 

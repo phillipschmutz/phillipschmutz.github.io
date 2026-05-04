@@ -6,6 +6,15 @@ title: "GEO 4221 - Coastal Morphology"
 
 This course is an introduction to the world's coastal landforms, with emphasis upon dominant processes (especially waves, tides, and currents), geographical variations, human impacts and policies, and environmental concerns. 
 
+
+## Student Learning Objectives (SLOs)
+- Define coastal processes (i.e., wave, wind, tides, etc.)
+- Describe the relationship between coastal landforms and key processes
+- Illustrate how humans are adapting to current coastal management challenges
+- Synthesize scholarship/research articles in the field of coastal geomorphology
+- Evaluate the relevance of scholarship/research articles through the examination of current events
+
+
 ## Topics
 - History of Coastal Science
 - Waves
@@ -18,13 +27,14 @@ This course is an introduction to the world's coastal landforms, with emphasis u
 - Coastal Management
 
 ## Course Materials
-- [Syllabus](courses/geo4221.qmd)
-- [Calendar](courses/geo4221.qmd)
+- [Syllabus]()
+- [Calendar]()
 
-- Textbook: [Introduction to Coastal Processes and Geomorphology, Second Edition, Masselink, Hughes, and Knight](https://doi.org/10.4324/9780203785461)
+- Textbook: [Introduction to Coastal Processes and Geomorphology, 2nd Edition, Masselink, Hughes, and Knight](https://doi.org/10.4324/9780203785461)
 
 ## Assignments
-- Seminar (Paper Discussion) Days
-- History of Coastal Geomorphology Presentation
+- Two Examinations [25% eac -- 50% total]
+- Seminar Days: Article Synopsis & Discussion [20%]
+- History of Coastal Geomorphology Project & Presentation [30%]
 
 
