@@ -36,7 +36,9 @@ underscoring the linkages that climatic and geologic controls have on landscape 
 - [Syllabus]()
 - [Calendar]()
 
-- Textbook: [Fundamentals of Geomorphology, Huggett, R.J. -- 3rd, 4th, or 5th Editions  ](https://sudartomas.wordpress.com/wp-content/uploads/2012/11/fundamentalsofgeomorphology_routledgefundamentalsofphysicalgeography.pdf)
+- Textbook: Fundamentals of Geomorphology, Huggett, R.J. -- 3rd, 4th, or 5th Editions
+
+  - [Fundamentals of Geomorphology, Huggett, R.J. -- 3rd Edition  ](https://sudartomas.wordpress.com/wp-content/uploads/2012/11/fundamentalsofgeomorphology_routledgefundamentalsofphysicalgeography.pdf)
 
 ## Assignments
 - Two Exams [60% -- 30% each]
