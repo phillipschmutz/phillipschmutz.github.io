@@ -35,11 +35,10 @@ This course focuses on aeolian (wind) processes that influence coastal and arid 
 - Textbook: No required Textbook.
 
   - *Supplementary texts:*
-    
-    - Aeolian Geomorphology by I. Livingston and A. Warren (1996), Longman
-    - Dunes: Dynamics, Morphology, History by A. Warren (2013), Wiley-Blackwell
-    - Geomorphology of Desert Dunes by N. Lancaster (1995), Routledge
-    - Deserts: A Very Short Introduction by Nick Middleton (2009), Oxford
+    - Aeolian Geomorphology, I. Livingston and A. Warren (1996)
+    - Dunes: Dynamics, Morphology, History, A. Warren (2013)
+    - Geomorphology of Desert Dunes, N. Lancaster (1995)
+    - Deserts: A Very Short Introduction, Nick Middleton (2009)
 
 ## Assignments
 - Two Exams [60% -- 30% each]
