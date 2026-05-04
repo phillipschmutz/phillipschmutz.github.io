@@ -2,4 +2,44 @@
 title: "GEO 3210 - Geomorphology"
 ---
 
+## Course Overview
+
+This course will focus on the origin and development of landforms and landscapes on the Earth's
+surface, with a systematic analysis of the geomorphic processes that produce and modify them. An
+emphasis will be placed on understanding the scale and rate at which geomorphic processes occur,
+underscoring the linkages that climatic and geologic controls have on landscape evolution.
+
+
+## Student Learning Objectives (SLOs)
+- Recognize the classifications schemes of common geomorphic landscapes
+- Describe the physical principles of geomorphic processes
+- Explain the linkages between landscape form and process: from small scale to large scale
+- Summarize the purpose and use of geomorphic models
+- Discuss the application of geomorphology to environmental management
+
+
+## Topics
+::: grid
+::: g-col-6
+**Geomorphological Thought**
+
+:::
+
+::: g-col-6
+**Surface Processes & Landforms**
+
+:::
+
+:::
+
+## Course Materials
+- [Syllabus]()
+- [Calendar]()
+
+- Textbook: [Fundamentals of Geomorphology, Huggett, R.J. -- 3rd, 4th, or 5th Editions  ](https://sudartomas.wordpress.com/wp-content/uploads/2012/11/fundamentalsofgeomorphology_routledgefundamentalsofphysicalgeography.pdf)
+
+## Assignments
+- Two Exams [60% -- 30% each]
+- Seminar Days: Article Synopsis & Discussion [15%]
+- Current Event / Research Article Project [25%]
 
