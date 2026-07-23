@@ -1,0 +1,26 @@
+---
+title: "Dr. Phillip P. Schmutz"
+---
+
+::: columns
+::: {.column width="20%"}
+![](files/PhillipSchmutz.jpg){fig-alt="Photo of Phillip Schmutz"
+  .profile-circle
+}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="75%"}
+I am an Associate Professor and Chair of the Department of Earth and Environmental Sciences at the University of West Florida.
+
+My research focuses on coastal and aeolian geomorphology, with particular emphasis on beach--dune systems and the processes that influence sediment transport, dune development, and coastal resilience.
+
+Methodologically, I integrate field-based measurements, uncrewed aerial systems (UAS), geospatial analysis, and environmental statistical modeling to examine coastal processes across space and time. My work leverages drone-derived topography, LiDAR data, field surveys, and long-term monitoring datasets to evaluate relationships between coastal geomorphology and habitat use, supporting data-driven conservation and coastal management decisions.
+
+I have published in journals such as Geomorphology, Aeolian Research, Geophysical Research Letters, Southeastern Geographer, and Ocean and Coastal Management, and regularly present at national and regional professional conferences.
+
+At UWF, I teach courses in Earth Science, geomorphology, and coastal systems, and am committed to undergraduate and graduate research, field-based learning, and interdisciplinary collaboration.
+:::
+:::

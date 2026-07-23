@@ -10,7 +10,7 @@ website:
     collapse-below: sm 
     left:
       - text: "Home"
-        href: index2.qmd
+        href: index.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Publications"
