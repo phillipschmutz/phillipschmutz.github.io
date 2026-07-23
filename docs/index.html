@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Phillip P. Schmutz</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./files/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+<!-- Bootstrap Icons (optional) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="homepage.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Phillip P. Schmutz</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./courses.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cgmlab.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Research Lab</span>
+    </span>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/phillipschmutz"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=6eBNIrgAAAAJ&amp;hl=en"> <i class="bi bi-Google Scholar" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:pschmutz@uwf.edu"> <i class="bi bi-envelope" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content">
+
+
+
+
+<div class="homepage">
+<div class="home-hero">
+<div class="home-hero-shade">
+<div class="home-shell">
+<section id="phillip-p.-schmutz" class="level1 hero-copy">
+<h1>Phillip P. Schmutz</h1>
+<p><strong>Associate Professor and Chair</strong><br>
+Department of Earth and Environmental Sciences<br>
+University of West Florida</p>
+<div class="hero-tags">
+<p>Coastal &amp; Aeolian Geomorphology · Species Distribution Modeling · Statistical Analysis</p>
+</div>
+<div class="hero-actions">
+<p><a href="./cv.html" class="home-button home-button-outline">View CV</a> <a href="./research.html" class="home-button home-button-outline">Explore Research</a> <a href="https://cgmlabuwf.github.io" class="home-button home-button-outline">Visit the CGM Lab</a></p>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="home-shell home-content">
+<section id="welcome" class="level2">
+<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
+<div class="welcome-grid">
+<div class="welcome-copy">
+<p>I am a coastal and aeolian geomorphologist interested in how physical and ecological processes shape dynamic beach and dune landscapes. My research combines field observations, uncrewed aerial systems, geospatial analysis, and statistical modeling to better understand coastal system change.</p>
+<p>My work focuses on beach–dune systems, sediment transport, dune development, coastal resilience, and relationships between coastal morphology and habitat use. I use drone-derived topography, LiDAR, field surveys, and long-term monitoring datasets to support data-driven conservation and coastal management.</p>
+<p>As Chair of the Department of Earth and Environmental Sciences at the University of West Florida, I am committed to student success, interdisciplinary collaboration, field-based learning, and undergraduate and graduate research.</p>
+</div>
+<div class="profile-contact-grid">
+<div class="portrait-wrap">
+<p><img src="files/PhillipSchmutz.jpg" class="home-portrait img-fluid" alt="Portrait of Phillip Schmutz"></p>
+</div>
+<section id="contact" class="level3 contact-panel">
+<h3 class="anchored" data-anchor-id="contact">Contact</h3>
+<p><strong>Email</strong><br>
+<a href="mailto:pschmutz@uwf.edu">pschmutz@uwf.edu</a></p>
+<p><strong>Department</strong><br>
+<a href="https://uwf.edu/ceps/departments/earth-and-environmental-sciences">Earth and Environmental Sciences</a></p>
+<p><strong>Institution</strong><br>
+<a href="https://uwf.edu/">University of West Florida</a></p>
+<p><strong>Professional Profiles</strong></p>
+<p><a href="https://scholar.google.com/citations?user=6eBNIrgAAAAJ&amp;hl=en">Google Scholar</a> <a href="https://www.researchgate.net/profile/Phillip-Schmutz-2">ResearchGate</a> <a href="https://orcid.org/0000-0002-7243-4815">ORCID</a> <a href="https://github.com/phillipschmutz">GitHub</a></p>
+</section>
+</div>
+</div>
+</section>
+<section id="current-roles" class="level2">
+<h2 class="anchored" data-anchor-id="current-roles">Current Roles</h2>
+<div class="role-grid">
+<div class="role-card">
+<div class="role-symbol role-blue">
+<p><i class="fa-solid fa-building-columns"></i></p>
+</div>
+<section id="department-leadership" class="level3">
+<h3 class="anchored" data-anchor-id="department-leadership">Department Leadership</h3>
+<p><strong>Chair</strong><br>
+<a href="https://uwf.edu/ceps/departments/earth-and-environmental-sciences/">Department of Earth and Environmental Sciences</a></p>
+</section>
+</div>
+</div>
+</section>
+</div>
+<div class="role-card">
+<div class="role-symbol role-green">
+<p><i class="fa-solid fa-wind"></i></p>
+</div>
+<section id="research" class="level3">
+<h3 class="anchored" data-anchor-id="research">Research</h3>
+<p><strong>Co-Director</strong><br>
+<a href="https://cgmlabuwf.github.io">Computational Geomorphology and Modeling Lab</a></p>
+</section>
+</div>
+<div class="role-card">
+<div class="role-symbol role-gold">
+<p><i class="fas fa-graduation-cap"></i></p>
+</div>
+<section id="teaching" class="level3">
+<h3 class="anchored" data-anchor-id="teaching">Teaching</h3>
+<p><strong>Fall 2026 Courses:</strong> <a href="geo6118.qmd">Research Design (GEO 6118)</a> <a href="geo3210.qmd">Geomorphology (GEO 3210)</a> <a href="geo3210lab.qmd">Geomorphology Lab (GEO 3210)</a></p>
+</section>
+</div>
+<div class="role-card">
+<div class="role-symbol role-orange">
+<p><i class="fas fa-users"></i></p>
+</div>
+<section id="mentoring" class="level3">
+<h3 class="anchored" data-anchor-id="mentoring">Mentoring</h3>
+<p><strong>Student Research</strong><br>
+Mentoring undergraduate and graduate students through research, fieldwork, and scholarly presentations.</p>
+</section>
+</div>
+</div>
+<section id="research-focus" class="level2">
+<h2 class="anchored" data-anchor-id="research-focus">Research Focus</h2>
+<div class="focus-grid">
+<div class="focus-card">
+<p><img src="files/coastal-geomorphology.jpg" class="img-fluid" alt="Coastal beach and dune landscape"> ::: {.focus-copy} ### Coastal Geomorphology</p>
+<p>Examining how physical and ecological processes shape beach–dune systems as well as the influence of coastal morphology on sea turtle nesting habitat.</p>
+<p><a href="./research.html">Learn more →</a></p>
+</div>
+</div>
+<div class="focus-card">
+<p><img src="files/geospatial-science.jpg" class="img-fluid" alt="Geospatial visualization of coastal terrain"> ::: {.focus-copy} ### Geospatial Science</p>
+<p>Integrating UAS, LiDAR, GNSS, remote sensing, and GIS to map landscape change and support species distribution modeling.</p>
+<p><a href="./research.html">Learn more →</a></p>
+</div>
+<p>:::</p>
+<div class="focus-card">
+<p><img src="files/environmental-modeling.jpg" class="img-fluid" alt="Environmental data visualization"> ::: {.focus-copy} ### Environmental Statistical Modeling</p>
+<p>Applying statistical and computational methods to environmental questions.</p>
+<p><a href="./cgmlab.html">Learn more →</a></p>
+</div>
+<p>:::</p>
+<div class="focus-card">
+<p><img src="files/student-research.jpg" class="img-fluid" alt="Students conducting coastal field research"> ::: {.focus-copy} ### Student Research</p>
+<p>Creating opportunities for students to develop field, analytical, and professional skills.</p>
+<p><a href="./research.html">Learn more →</a></p>
+</div>
+<p>:::</p>
+<p>:::</p>
+</section>
+<div class="highlight-band">
+<section id="at-a-glance" class="level2 numbers-panel">
+<h2 class="anchored" data-anchor-id="at-a-glance">At a Glance</h2>
+<div class="numbers-grid">
+<div class="number-item">
+<p><span class="number-main">15</span> <span class="number-caption">Peer-reviewed publications</span></p>
+</div>
+<div class="number-item">
+<p><span class="number-main">$2.5M+</span> <span class="number-caption">Research funding pursued</span></p>
+</div>
+<div class="number-item">
+<p><span class="number-main">8</span> <span class="number-caption">Graduate thesis students mentored</span></p>
+</div>
+<div class="number-item">
+<p><span class="number-main">5</span> <span class="number-caption">Active collaborations</span></p>
+</div>
+</div>
+</section>
+<section id="recent-updates" class="level2 updates-panel">
+<h2 class="anchored" data-anchor-id="recent-updates">Recent Updates</h2>
+<div class="update-item">
+<p><strong>Presented research at ICAR in Namibia</strong><br>
+<span>July 2026</span></p>
+</div>
+<div class="update-item">
+<p><strong>Add a recent publication, grant, student achievement, or field project</strong><br>
+<span>Month 2026</span></p>
+</div>
+<div class="update-item">
+<p><strong>Add another timely professional update</strong><br>
+<span>Month 2026</span></p>
+</div>
+</section>
+</div>
+<section id="featured-publications" class="level2">
+<h2 class="anchored" data-anchor-id="featured-publications">Featured Publications</h2>
+<div class="publication-grid">
+<div class="publication-card">
+<p><span class="publication-label">ARTICLE</span></p>
+<section id="spacetime-mapping-and-identification-of-sea-turtle-nesting-clusters-on-pensacola-beach-and-gulf-islands-national-seashore-florida" class="level3">
+<h3 class="anchored" data-anchor-id="spacetime-mapping-and-identification-of-sea-turtle-nesting-clusters-on-pensacola-beach-and-gulf-islands-national-seashore-florida">Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida</h3>
+<p><em>Southeastern Geographer</em>, 2026</p>
+<p><a href="https://doi.org/10.1353/sgo.0.a98163">View publication →</a></p>
+</section>
+</div>
+<div class="publication-card">
+<p><span class="publication-label">ARTICLE</span></p>
+<section id="lagging-behind-impact-of-non-native-gravel-within-a-coastal-dune-system" class="level3">
+<h3 class="anchored" data-anchor-id="lagging-behind-impact-of-non-native-gravel-within-a-coastal-dune-system">Lagging behind: Impact of non-native gravel within a coastal dune system</h3>
+<p><em>Aeolian Research</em>, 2025</p>
+<p><a href="https://doi.org/10.1016/j.aeolia.2024.100957">View publication →</a></p>
+</section>
+</div>
+<div class="publication-card">
+<p><span class="publication-label">ARTICLE</span></p>
+<section id="beach-user-perception-on-the-economic-and-ecological-importance-of-sand-dunes-at-pensacola-beach-florida." class="level3">
+<h3 class="anchored" data-anchor-id="beach-user-perception-on-the-economic-and-ecological-importance-of-sand-dunes-at-pensacola-beach-florida.">Beach User Perception on the Economic and Ecological Importance of Sand Dunes at Pensacola Beach, Florida.</h3>
+<p><em>Southeastern Geographer</em>, 2020</p>
+<p><a href="https://doi.org/10.1353/sgo.2020.0026">View publication →</a></p>
+</section>
+</div>
+</div>
+<div class="all-publications">
+<p><a href="./publications.html" class="home-button home-button-primary">View all publications</a></p>
+</div>
+</section>
+<section id="teaching-students-and-service" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-students-and-service">Teaching, Students, and Service</h2>
+<div class="lower-grid">
+<div class="lower-card">
+<p><img src="files/teaching.jpg" class="img-fluid" alt="Field-based university teaching"> ::: {.lower-copy} ### Teaching</p>
+<p>My courses emphasize field-based learning, critical thinking, quantitative analysis, and the application of geospatial technologies to environmental questions.</p>
+<p><a href="./courses.html">View courses →</a></p>
+</div>
+</div>
+<div class="lower-card">
+<p><img src="files/students.jpg" class="img-fluid" alt="Students participating in research"> ::: {.lower-copy} ### Students</p>
+<p>I work with undergraduate and graduate students on independent research, theses, field projects, and conference presentations.</p>
+<p><a href="./cgmlab.html">Explore the CGM Lab →</a></p>
+</div>
+<p>:::</p>
+<div class="lower-card">
+<p><img src="files/service.jpg" class="img-fluid" alt="Professional and university service activity"> ::: {.lower-copy} ### Service</p>
+<p>I contribute through department leadership, university service, peer review, professional organizations, and engagement with the environmental science community.</p>
+<p><a href="./cv.html">View CV →</a></p>
+</div>
+<p>:::</p>
+<p>:::</p>
+</section>
+<div class="contact-banner">
+<section id="lets-connect" class="level2 contact-banner-copy">
+<h2 class="anchored" data-anchor-id="lets-connect">Let’s Connect</h2>
+<p>I welcome conversations about research collaborations, student opportunities, coastal science, and geospatial applications.</p>
+</section>
+<div class="contact-banner-action">
+<p><a href="mailto:pschmutz@uwf.edu" class="home-button home-button-light">Email me</a></p>
+</div>
+</div>
+<p>::: :::</p>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/phillipschmutz\.github\.io");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
