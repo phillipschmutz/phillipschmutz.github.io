@@ -22,9 +22,8 @@ Coastal & Aeolian Geomorphology · Species Distribution Modeling · Statistical 
 :::
 
 ::: {.hero-actions}
-[View CV](cv.qmd){.home-button .home-button-outline}
-[Explore Research](research.qmd){.home-button .home-button-outline}
-[Visit the CGM Lab](https://cgmlabuwf.github.io){.home-button .home-button-outline}
+[View CV](files/Schmutz_CV.pdf){.home-button .home-button-outline}
+[Visit CGM Research Lab](https://cgmlabuwf.github.io){.home-button .home-button-outline}
 :::
 :::
 :::
@@ -64,10 +63,9 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 [University of West Florida](https://uwf.edu/)
 
 **Professional Profiles**
-
-[Google Scholar](https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en)
-[ResearchGate](https://www.researchgate.net/profile/Phillip-Schmutz-2)
-[ORCID](https://orcid.org/0000-0002-7243-4815)
+[Google Scholar](https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en)\
+[ResearchGate](https://www.researchgate.net/profile/Phillip-Schmutz-2)\
+[ORCID](https://orcid.org/0000-0002-7243-4815)\
 [GitHub](https://github.com/phillipschmutz)
 :::
 :::
@@ -119,56 +117,6 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 
 **Student Research**  
 Mentoring undergraduate and graduate students through research, fieldwork, and scholarly presentations.
-:::
-
-:::
-
-## Research Focus
-
-::: {.focus-grid}
-
-::: {.focus-card}
-![](files/coastal-geomorphology.jpg){fig-alt="Coastal beach and dune landscape"}
-::: {.focus-copy}
-### Coastal Geomorphology
-
-Examining how physical and ecological processes shape beach–dune systems as well as the influence of coastal morphology on sea turtle nesting habitat.
-
-[Learn more →](research.qmd)
-:::
-:::
-
-::: {.focus-card}
-![](files/geospatial-science.jpg){fig-alt="Geospatial visualization of coastal terrain"}
-::: {.focus-copy}
-### Geospatial Science
-
-Integrating UAS, LiDAR, GNSS, remote sensing, and GIS to map landscape change and support species distribution modeling.
-
-[Learn more →](research.qmd)
-:::
-:::
-
-::: {.focus-card}
-![](files/environmental-modeling.jpg){fig-alt="Environmental data visualization"}
-::: {.focus-copy}
-### Environmental Statistical Modeling
-
-Applying statistical and computational methods to environmental questions.
-
-[Learn more →](cgmlab.qmd)
-:::
-:::
-
-::: {.focus-card}
-![](files/student-research.jpg){fig-alt="Students conducting coastal field research"}
-::: {.focus-copy}
-### Student Research
-
-Creating opportunities for students to develop field, analytical, and professional skills.
-
-[Learn more →](research.qmd)
-:::
 :::
 
 :::
