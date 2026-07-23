@@ -1,0 +1,314 @@
+---
+title: ""
+page-layout: full
+toc: false
+css: homepage.css
+---
+
+::: {.homepage}
+
+::: {.home-hero}
+::: {.home-hero-shade}
+::: {.home-shell}
+::: {.hero-copy}
+# Phillip P. Schmutz
+
+**Associate Professor and Chair**  
+Department of Earth and Environmental Sciences  
+University of West Florida
+
+*Coastal & Aeolian geomorphology · Species Distribution Modeling · Statistical Analysis*
+
+::: {.hero-actions}
+[View CV](cv.qmd){.home-button .home-button-primary}
+[Explore Research](research.qmd){.home-button .home-button-outline}
+[Visit the GMM Lab](https://cgmlabuwf.github.io){.home-button .home-button-outline}
+:::
+:::
+:::
+:::
+:::
+
+::: {.home-shell .home-content}
+
+::: {.welcome-grid}
+
+::: {.welcome-copy}
+## Welcome
+
+I am a coastal and aeolian geomorphologist interested in how physical and ecological processes shape dynamic beach and dune landscapes. My research combines field observations, uncrewed aerial systems, geospatial analysis, and statistical modeling to better understand coastal system change.
+
+My work focuses on beach–dune systems, sediment transport, dune development, coastal resilience, and relationships between coastal morphology and habitat use. I use drone-derived topography, LiDAR, field surveys, and long-term monitoring datasets to support data-driven conservation and coastal management.
+
+As Chair of the Department of Earth and Environmental Sciences at the University of West Florida, I am committed to student success, interdisciplinary collaboration, field-based learning, and undergraduate and graduate research.
+:::
+
+::: {.profile-contact-grid}
+::: {.portrait-wrap}
+![](files/PhillipSchmutz.jpg){fig-alt="Portrait of Phillip Schmutz" .home-portrait}
+:::
+
+::: {.contact-panel}
+### Contact
+
+**Email**  
+[pschmutz@uwf.edu](mailto:pschmutz@uwf.edu)
+
+**Department**  
+Earth and Environmental Sciences
+
+**Institution**  
+[University of West Florida](https://uwf.edu/)
+
+**Professional Profiles**
+
+[Google Scholar](https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en)  
+[ResearchGate](https://www.researchgate.net/profile/Phillip-Schmutz-2) [ORCID](https://orcid.org/0000-0002-7243-4815)
+[GitHub](https://github.com/phillipschmutz)
+:::
+:::
+
+:::
+
+## Current Roles
+
+::: {.role-grid}
+
+::: {.role-card}
+::: {.role-symbol .role-blue}
+01
+:::
+### Department Leadership
+
+**Chair**  
+[Department of Earth and Environmental Sciences](https://uwf.edu/ceps/departments/earth-and-environmental-sciences/))
+:::
+
+::: {.role-card}
+::: {.role-symbol .role-green}
+02
+:::
+### Research
+
+**Co-Director**  
+[Computational Geomorphology and Modeling Lab](https://cgmlabuwf.github.io)
+:::
+
+::: {.role-card}
+::: {.role-symbol .role-gold}
+03
+:::
+### Teaching
+
+**Undergraduate and Graduate**  
+Fall 2026 Courses:
+
+  - [Research Design (GEO 6118)](geo6118.qmd)
+  - [Geomorphology (GEO 3210)](geo3210.qmd)
+  - [Geomorphology Lab (GEO 3210)](geo3210lab.qmd)
+:::
+
+::: {.role-card}
+::: {.role-symbol .role-orange}
+04
+:::
+### Mentoring
+
+**Student Research**  
+Independent research, theses, fieldwork, and conference presentations
+:::
+
+:::
+
+## Research Focus
+
+::: {.focus-grid}
+
+::: {.focus-card}
+![](files/coastal-geomorphology.jpg){fig-alt="Coastal beach and dune landscape"}
+::: {.focus-copy}
+### Coastal Geomorphology
+
+Examining how physical and ecological processes shape beach–dune systems as well as the influence of coastal morphology on sea turtle nesting habitat.
+
+[Learn more →](research.qmd)
+:::
+:::
+
+::: {.focus-card}
+![](files/geospatial-science.jpg){fig-alt="Geospatial visualization of coastal terrain"}
+::: {.focus-copy}
+### Geospatial Science
+
+Integrating UAS, LiDAR, GNSS, remote sensing, and GIS to map landscape change and support species distribution modeling.
+
+[Learn more →](research.qmd)
+:::
+:::
+
+::: {.focus-card}
+![](files/environmental-modeling.jpg){fig-alt="Environmental data visualization"}
+::: {.focus-copy}
+### Environmental Statistical Modeling
+
+Applying statistical and computational methods to environmental questions.
+
+[Learn more →](cgmlab.qmd)
+:::
+:::
+
+::: {.focus-card}
+![](files/student-research.jpg){fig-alt="Students conducting coastal field research"}
+::: {.focus-copy}
+### Student Research
+
+Creating opportunities for students to develop field, analytical, and professional skills.
+
+[Learn more →](research.qmd)
+:::
+:::
+
+:::
+
+::: {.highlight-band}
+
+::: {.numbers-panel}
+## At a Glance
+
+::: {.numbers-grid}
+::: {.number-item}
+<span class="number-main">15</span>
+<span class="number-caption">Peer-reviewed publications</span>
+:::
+
+::: {.number-item}
+<span class="number-main">$2.5M+</span>
+<span class="number-caption">Research funding pursued</span>
+:::
+
+::: {.number-item}
+<span class="number-main">8</span>
+<span class="number-caption">Graduate thesis students mentored</span>
+:::
+
+::: {.number-item}
+<span class="number-main">5</span>
+<span class="number-caption">Active collaborations</span>
+:::
+:::
+:::
+
+::: {.updates-panel}
+## Recent Updates
+
+::: {.update-item}
+**Presented research at ICAR in Namibia**  
+<span>July 2026</span>
+:::
+
+::: {.update-item}
+**Add a recent publication, grant, student achievement, or field project**  
+<span>Month 2026</span>
+:::
+
+::: {.update-item}
+**Add another timely professional update**  
+<span>Month 2026</span>
+:::
+:::
+
+:::
+
+## Featured Publications
+
+::: {.publication-grid}
+
+::: {.publication-card}
+<span class="publication-label">ARTICLE</span>
+
+### Space--Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida
+
+*Southeastern Geographer*, 2026
+
+[View publication →](https://doi.org/10.1353/sgo.0.a98163)
+:::
+
+::: {.publication-card}
+<span class="publication-label">ARTICLE</span>
+
+### Lagging behind: Impact of non-native gravel within a coastal dune system
+
+*Aeolian Research*, 2025
+
+[View publication →](https://doi.org/10.1016/j.aeolia.2024.100957)
+:::
+
+::: {.publication-card}
+<span class="publication-label">ARTICLE</span>
+
+### Beach User Perception on the Economic and Ecological Importance of Sand Dunes at Pensacola Beach, Florida.
+
+*Southeastern Geographer*, 2020
+
+[View publication →](https://doi.org/10.1353/sgo.2020.0026)
+:::
+
+:::
+
+::: {.all-publications}
+[View all publications](publications.qmd){.home-button .home-button-primary}
+:::
+
+## Teaching, Students, and Service
+
+::: {.lower-grid}
+
+::: {.lower-card}
+![](files/teaching.jpg){fig-alt="Field-based university teaching"}
+::: {.lower-copy}
+### Teaching
+
+My courses emphasize field-based learning, critical thinking, quantitative analysis, and the application of geospatial technologies to environmental questions.
+
+[View courses →](courses.qmd)
+:::
+:::
+
+::: {.lower-card}
+![](files/students.jpg){fig-alt="Students participating in research"}
+::: {.lower-copy}
+### Students
+
+I work with undergraduate and graduate students on independent research, theses, field projects, and conference presentations.
+
+[Explore the CGM Lab →](cgmlab.qmd)
+:::
+:::
+
+::: {.lower-card}
+![](files/service.jpg){fig-alt="Professional and university service activity"}
+::: {.lower-copy}
+### Service
+
+I contribute through department leadership, university service, peer review, professional organizations, and engagement with the environmental science community.
+
+[View CV →](cv.qmd)
+:::
+:::
+
+:::
+
+::: {.contact-banner}
+::: {.contact-banner-copy}
+## Let’s Connect
+
+I welcome conversations about research collaborations, student opportunities, coastal science, and geospatial applications.
+:::
+
+::: {.contact-banner-action}
+[Email me](mailto:pschmutz@uwf.edu){.home-button .home-button-light}
+:::
+:::
+
+:::
+:::

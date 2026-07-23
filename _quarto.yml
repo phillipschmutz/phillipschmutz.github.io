@@ -5,26 +5,25 @@ project:
 website:
   title: "Phillip Schmutz, Ph.D."
   site-url: "https://phillipschmutz.github.io"
+  
   navbar:
     collapse-below: sm 
     left:
-      - text: "About Me"
-        href: index.qmd
+      - text: "Home"
+        href: index2.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Publications"
         href: publications.qmd
       - text: "Courses"
         href: courses.qmd
-      - text: "Research Labs"
+      - text: "Research Lab"
         menu:
-          - text: "Coastal Ecogeomorphic Systems (CES) Lab"
-            href: ceslab.qmd  
           - text: "Computational Geomorphology and Modeling (CGM) Lab"
             href: cgmlab.qmd
 
   page-footer:
-    right: "© pschmutz, University of West Florida"
+    right: "© 2026 Phillip P. Schmutz, University of West Florida"
     
     
 format:

@@ -50,4 +50,4 @@ Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, 
 
 Cox, D.<sup>G</sup>, **P.P. Schmutz**, and S.R. Seals. In Review (2026). Modeling Loggerhead (Caretta caretta) Nesting Site Selection Probability Using Presence-Pseudo-Absence Data. *Ecosphere*.
 
-**Schmutz, P.P.**, J. Agin, <sup>UG</sup>, S.R. Seals, and P. Tereszkiewicz. In Review (2026). Wrack as Dynamic Roughness: Controls on Wind Reduction and Sediment Deposition. *Aeolian Research*.
+**Schmutz, P.P.**, S.R. Seals, J. Agin <sup>UG</sup>, and P. Tereszkiewicz. In Review (2026). Wrack as Dynamic Roughness: Controls on Wind Reduction and Sediment Deposition. *Aeolian Research*.
