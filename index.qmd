@@ -86,7 +86,6 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 <i class="bi bi-building"></i>
 :::
 
-::: {.role-title}
 ### Department Leadership
 
 **Chair**  

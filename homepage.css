@@ -56,7 +56,7 @@ body:has(.homepage) .quarto-title-block {
     ),
     url("files/hero-coast.png");
   background-size: cover;
-  background-position: center;
+  background-position: center bottom;
 }
 
 .home-hero-shade {
@@ -91,12 +91,11 @@ body:has(.homepage) .quarto-title-block {
 }
 
 .hero-tags {
-  margin-top: 14px;
+  margin-top: 8px;
   font-size: 0.4rem;
   font-weight: 300;
   font-style: normal;
   letter-spacing: 0.08em;
-  text-transform: uppercase;
   color: rgba(255,255,255,0.85);
 }
 
