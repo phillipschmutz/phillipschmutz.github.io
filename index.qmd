@@ -33,10 +33,10 @@ Coastal & Aeolian Geomorphology · Species Distribution Modeling · Statistical 
 
 ::: {.home-shell .home-content}
 
+## Welcome
 ::: {.welcome-grid}
 
 ::: {.welcome-copy}
-## Welcome
 
 I am a coastal and aeolian geomorphologist interested in how physical and ecological processes shape dynamic beach and dune landscapes. My research combines field observations, uncrewed aerial systems, geospatial analysis, and statistical modeling to better understand coastal system change.
 
@@ -46,6 +46,7 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 :::
 
 ::: {.profile-contact-grid}
+
 ::: {.portrait-wrap}
 ![](files/PhillipSchmutz.jpg){fig-alt="Portrait of Phillip Schmutz" .home-portrait}
 :::
