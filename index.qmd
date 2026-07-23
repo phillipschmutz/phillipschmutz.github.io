@@ -17,7 +17,9 @@ css: homepage.css
 Department of Earth and Environmental Sciences  
 University of West Florida
 
-*Coastal & Aeolian geomorphology · Species Distribution Modeling · Statistical Analysis*
+::: {.hero-tags}
+Coastal & Aeolian Geomorphology · Species Distribution Modeling · Statistical Analysis
+:::
 
 ::: {.hero-actions}
 [View CV](cv.qmd){.home-button .home-button-primary}
