@@ -275,6 +275,7 @@ body:has(.homepage) .quarto-title-block {
   line-height: 1.48;
 }
 
+
 .role-symbol {
   grid-column: 1;
   grid-row: 1 / span 2;
@@ -284,8 +285,13 @@ body:has(.homepage) .quarto-title-block {
   place-items: center;
   color: #fff;
   border-radius: 50%;
-  font-size: 0.82rem;
-  font-weight: 800;
+}
+
+.role-symbol i {
+  display: block;
+  color: #fff !important;
+  font-size: 1.35rem;
+  line-height: 1;
 }
 
 .role-blue { background: var(--home-blue); }

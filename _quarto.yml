@@ -1,35 +1,55 @@
 project:
   type: website
-  
-  
-website:
-  title: "Phillip Schmutz, Ph.D."
-  site-url: "https://phillipschmutz.github.io"
-  
-  navbar:
-    collapse-below: sm 
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "CV"
-        href: cv.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Courses"
-        href: courses.qmd
-      - text: "Research Lab"
-        menu:
-          - text: "Computational Geomorphology and Modeling (CGM) Lab"
-            href: cgmlab.qmd
+  output-dir: docs
 
-  page-footer:
-    right: "© 2026 Phillip P. Schmutz, University of West Florida"
-    
-    
+website:
+  title: "Phillip P. Schmutz"
+  site-url: https://phillipschmutz.github.io
+  favicon: files/favicon.png
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: courses.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: cgmlab.qmd
+        text: CV
+      - text: Research Lab
+
+    right:
+      - icon: github
+        href: https://github.com/phillipschmutz
+      - icon: Google Scholar
+        href: https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en
+      - icon: envelope
+        href: mailto:pschmutz@uwf.edu
+
 format:
   html:
     theme: flatly
-    css: styles.css
     toc: false
-    mainfont: Arial
     page-layout: full
+
+    css:
+      - styles.css
+      - homepage.css
+
+    include-in-header:
+      text: |
+        <!-- Font Awesome -->
+        <link rel="stylesheet"
+              href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+        <!-- Bootstrap Icons (optional) -->
+        <link rel="stylesheet"
+              href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+execute:
+  freeze: auto
+
+

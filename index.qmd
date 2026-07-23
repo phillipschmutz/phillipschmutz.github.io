@@ -79,13 +79,9 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-grid}
 
 ::: {.role-card}
-
-::: {.role-header}
-
 ::: {.role-symbol .role-blue}
-<i class="bi bi-building"></i>
+<i class="fa-solid fa-building-columns"></i>
 :::
-
 ### Department Leadership
 
 **Chair**  
@@ -110,8 +106,7 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 :::
 ### Teaching
 
-**Undergraduate and Graduate**  
-Fall 2026 Courses:
+**Fall 2026 Courses:**
 [Research Design (GEO 6118)](geo6118.qmd)
 [Geomorphology (GEO 3210)](geo3210.qmd)
 [Geomorphology Lab (GEO 3210)](geo3210lab.qmd)
