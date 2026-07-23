@@ -43,7 +43,7 @@ body:has(.homepage) .quarto-title-block {
 
 /* HERO */
 .home-hero {
-  min-height: 470px;
+  min-height: 300px;
   display: flex;
   align-items: center;
   color: #fff;
@@ -92,8 +92,8 @@ body:has(.homepage) .quarto-title-block {
 
 .hero-tags {
   margin-top: 14px;
-  font-size: 0.88rem;
-  font-weight: 500;
+  font-size: 0.4rem;
+  font-weight: 300;
   font-style: normal;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -112,8 +112,8 @@ body:has(.homepage) .quarto-title-block {
   padding: 0.76rem 1.08rem;
   border: 2px solid transparent;
   border-radius: 5px;
-  font-size: 0.86rem;
-  font-weight: 700;
+  font-size: 0.7rem;
+  font-weight: 500;
   letter-spacing: 0.018em;
   text-decoration: none;
   transition: transform 150ms ease, background-color 150ms ease;
@@ -146,6 +146,7 @@ body:has(.homepage) .quarto-title-block {
   background: #fff;
 }
 
+
 .home-content {
   padding-top: 46px;
   padding-bottom: 74px;
@@ -153,19 +154,22 @@ body:has(.homepage) .quarto-title-block {
 
 .home-content h2 {
   position: relative;
-  margin: 0 0 24px;
+  margin: 0 0 32px;
+  padding-bottom: 14px;
   color: var(--home-navy);
   font-size: 1.72rem;
   font-weight: 800;
   letter-spacing: -0.025em;
+  border-bottom: 1px solid var(--home-border);
 }
 
 .home-content h2::after {
   content: "";
-  display: block;
+  position: absolute;
+  left: 0;
+  bottom: -1px;
   width: 52px;
   height: 3px;
-  margin-top: 8px;
   background: var(--home-blue);
   border-radius: 20px;
 }

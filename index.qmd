@@ -22,7 +22,7 @@ Coastal & Aeolian Geomorphology · Species Distribution Modeling · Statistical 
 :::
 
 ::: {.hero-actions}
-[View CV](cv.qmd){.home-button .home-button-primary}
+[View CV](cv.qmd){.home-button .home-button-outline}
 [Explore Research](research.qmd){.home-button .home-button-outline}
 [Visit the CGM Lab](https://cgmlabuwf.github.io){.home-button .home-button-outline}
 :::
