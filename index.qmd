@@ -121,93 +121,35 @@ Mentoring undergraduate and graduate students through research, fieldwork, and s
 
 :::
 
-::: {.highlight-band}
+::: {.highlights-band}
 
-::: {.numbers-panel}
-## At a Glance
+## Highlights
 
-::: {.numbers-grid}
-::: {.number-item}
-<span class="number-main">15</span>
-<span class="number-caption">Peer-reviewed publications</span>
+::: {.highlights-grid}
+::: {.highlight-column}
+
+### Recent Updates
+
+- **New research initiative**  
+  Brief description of the update, project, award, fieldwork, or publication.
+
+- **Department and student news**  
+  Brief description of a recent departmental or mentoring highlight.
+
+- **Conference or fieldwork update**  
+  Brief description of a recent presentation, collaboration, or field campaign.
 :::
 
-::: {.number-item}
-<span class="number-main">$2.5M+</span>
-<span class="number-caption">Research funding pursued</span>
-:::
+::: {.highlight-column}
+### Featured Publications
 
-::: {.number-item}
-<span class="number-main">8</span>
-<span class="number-caption">Graduate thesis students mentored</span>
-:::
-
-::: {.number-item}
-<span class="number-main">5</span>
-<span class="number-caption">Active collaborations</span>
-:::
-:::
-:::
-
-::: {.updates-panel}
-## Recent Updates
-
-::: {.update-item}
-**Presented research at ICAR in Namibia**  
-<span>July 2026</span>
-:::
-
-::: {.update-item}
-**Add a recent publication, grant, student achievement, or field project**  
-<span>Month 2026</span>
-:::
-
-::: {.update-item}
-**Add another timely professional update**  
-<span>Month 2026</span>
-:::
-:::
-
-:::
-
-## Featured Publications
-
-::: {.publication-grid}
-
-::: {.publication-card}
-<span class="publication-label">ARTICLE</span>
-
-### Space--Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida
-
+**Space--Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida**
 *Southeastern Geographer*, 2026
-
 [View publication →](https://doi.org/10.1353/sgo.0.a98163)
-:::
 
-::: {.publication-card}
-<span class="publication-label">ARTICLE</span>
-
-### Lagging behind: Impact of non-native gravel within a coastal dune system
-
+**Lagging behind: Impact of non-native gravel within a coastal dune system**
 *Aeolian Research*, 2025
-
 [View publication →](https://doi.org/10.1016/j.aeolia.2024.100957)
-:::
-
-::: {.publication-card}
-<span class="publication-label">ARTICLE</span>
-
-### Beach User Perception on the Economic and Ecological Importance of Sand Dunes at Pensacola Beach, Florida.
-
-*Southeastern Geographer*, 2020
-
-[View publication →](https://doi.org/10.1353/sgo.2020.0026)
-:::
-
-:::
-
-::: {.all-publications}
-[View all publications](publications.qmd){.home-button .home-button-primary}
 :::
 
 

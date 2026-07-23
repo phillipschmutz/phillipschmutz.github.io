@@ -28,6 +28,10 @@ website:
       - icon: envelope
         href: mailto:pschmutz@uwf.edu
 
+
+  page-footer:
+    right: "© 2026 pschmutz, University of West Florida"
+
 format:
   html:
     theme: flatly
@@ -43,10 +47,6 @@ format:
         <!-- Font Awesome -->
         <link rel="stylesheet"
               href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-
-        <!-- Bootstrap Icons (optional) -->
-        <link rel="stylesheet"
-              href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
 execute:
   freeze: auto
