@@ -18,7 +18,7 @@ website:
       - href: cv.qmd
         text: CV
       - href: cgmlab.qmd
-      - text: Research
+        text: Research
 
     right:
       - icon: github

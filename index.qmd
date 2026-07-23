@@ -57,7 +57,7 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 [pschmutz@uwf.edu](mailto:pschmutz@uwf.edu)
 
 **Department**  
-[Earth and Environmental Sciences](https://uwf.edu/ceps/departments/earth-and-environmental-sciences)
+[Earth and Environmental Sciences](https://uwf.edu/hmcse/departments/earth-and-environmental-sciences/)
 
 **Institution**  
 [University of West Florida](https://uwf.edu/)
@@ -83,7 +83,7 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ### Department Leadership
 
 **Chair**  
-[Department of Earth and Environmental Sciences](https://uwf.edu/ceps/departments/earth-and-environmental-sciences/)
+[Department of Earth and Environmental Sciences](https://uwf.edu/hmcse/departments/earth-and-environmental-sciences/)
 :::
 
 
@@ -104,9 +104,9 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ### Teaching
 
 **Fall 2026 Courses:**
-[Research Design (GEO 6118)](geo6118.qmd)
-[Geomorphology (GEO 3210)](geo3210.qmd)
-[Geomorphology Lab (GEO 3210)](geo3210lab.qmd)
+[Research Design (GEO 6118)](courses/geo6118.qmd)
+[Geomorphology (GEO 3210)](courses/geo3210.qmd)
+[Geomorphology Lab (GEO 3210)](courses/geo3210lab.qmd)
 :::
 
 ::: {.role-card}
@@ -151,7 +151,8 @@ Mentoring undergraduate and graduate students through research, fieldwork, and s
 *Aeolian Research*, 2025
 [View publication →](https://doi.org/10.1016/j.aeolia.2024.100957)
 :::
-
+:::
+:::
 
 ::: {.contact-banner}
 ::: {.contact-banner-copy}
