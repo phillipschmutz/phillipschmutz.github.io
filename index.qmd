@@ -85,7 +85,7 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 **Chair**  
 [Department of Earth and Environmental Sciences](https://uwf.edu/ceps/departments/earth-and-environmental-sciences/)
 :::
-:::
+
 
 ::: {.role-card}
 ::: {.role-symbol .role-green}
@@ -210,44 +210,6 @@ Mentoring undergraduate and graduate students through research, fieldwork, and s
 [View all publications](publications.qmd){.home-button .home-button-primary}
 :::
 
-## Teaching, Students, and Service
-
-::: {.lower-grid}
-
-::: {.lower-card}
-![](files/teaching.jpg){fig-alt="Field-based university teaching"}
-::: {.lower-copy}
-### Teaching
-
-My courses emphasize field-based learning, critical thinking, quantitative analysis, and the application of geospatial technologies to environmental questions.
-
-[View courses →](courses.qmd)
-:::
-:::
-
-::: {.lower-card}
-![](files/students.jpg){fig-alt="Students participating in research"}
-::: {.lower-copy}
-### Students
-
-I work with undergraduate and graduate students on independent research, theses, field projects, and conference presentations.
-
-[Explore the CGM Lab →](cgmlab.qmd)
-:::
-:::
-
-::: {.lower-card}
-![](files/service.jpg){fig-alt="Professional and university service activity"}
-::: {.lower-copy}
-### Service
-
-I contribute through department leadership, university service, peer review, professional organizations, and engagement with the environmental science community.
-
-[View CV →](cv.qmd)
-:::
-:::
-
-:::
 
 ::: {.contact-banner}
 ::: {.contact-banner-copy}

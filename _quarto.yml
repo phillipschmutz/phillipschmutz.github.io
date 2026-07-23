@@ -18,13 +18,12 @@ website:
       - href: cv.qmd
         text: CV
       - href: cgmlab.qmd
-        text: CV
-      - text: Research Lab
+      - text: Research
 
     right:
       - icon: github
         href: https://github.com/phillipschmutz
-      - icon: Google Scholar
+      - icon: journal
         href: https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en
       - icon: envelope
         href: mailto:pschmutz@uwf.edu
