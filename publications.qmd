@@ -43,10 +43,33 @@ My research examines the interactions among coastal geomorphology, ecology, and 
 
 ### Sea Turtle Nesting & Habitat Use
 ::: {.theme-description}
-Research examining interactions among coastal morphology, ecological processes, conservation management, and the use of beach and dune environments.
+Research using spatial analysis and environmental modeling to examine how beach and dune morphology influence sea turtle nesting patterns and habitat use.
 :::
 
 ::: {.publication-grid}
+
+::: {.publication-item}
+::: {.publication-year}
+2026
+:::
+
+::: {.publication-details}
+### Modeling Loggerhead (Caretta caretta) Nesting Site Selection Probability Using Presence-Pseudo-Absence Data
+
+::: {.publication-authors}
+Cox, D.<sup>G</sup>, **P.P. Schmutz**, and S.R. Seals
+:::
+
+::: {.publication-source}
+*Ecosphere*, In Review
+:::
+
+::: {.publication-links}
+[Pre-print DOI](https://doi.org/10.22541/au.175525924.40059675/v1){.publication-button}
+:::
+:::
+:::
+
 
 ::: {.publication-item}
 ::: {.publication-year}
@@ -66,29 +89,6 @@ Williams, M., and **P.P. Schmutz**
 
 ::: {.publication-links}
 [DOI](https://doi.org/10.1353/sgo.0.a981639){.publication-button}
-:::
-:::
-:::
-
-
-::: {.publication-item}
-::: {.publication-year}
-2010
-:::
-
-::: {.publication-details}
-### The Effect on Coastal Vegetation of Trampling on a Parabolic Dune
-
-::: {.publication-authors}
-Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, N.A.R. Revelo, and O.A.J. Orocio
-:::
-
-::: {.publication-source}
-*Aeolian Research*, 2(2), 105–111.
-:::
-
-::: {.publication-links}
-[DOI](https://doi.org/10.1016/j.aeolia.2010.03.001){.publication-button}
 :::
 
 :::
@@ -101,33 +101,10 @@ Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, 
 
 ### Coastal Ecology & Conservation
 ::: {.theme-description}
-Research examining interactions among coastal morphology, ecological processes, conservation management, and the use of beach and dune environments.
+Research examining relationships among coastal vegetation, disturbance, ecosystem recovery, and the management of beach and dune environments.
 :::
 
 ::: {.publication-grid}
-
-::: {.publication-item}
-::: {.publication-year}
-2026
-:::
-
-::: {.publication-details}
-### Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida
-
-::: {.publication-authors}
-Williams, M., and **P.P. Schmutz**
-:::
-
-::: {.publication-source}
-*Southeastern Geographer*, 66(2), 152–180.
-:::
-
-::: {.publication-links}
-[DOI](https://doi.org/10.1353/sgo.0.a981639){.publication-button}
-:::
-:::
-:::
-
 
 ::: {.publication-item}
 ::: {.publication-year}
@@ -159,10 +136,33 @@ Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, 
 
 ### Beach–Dune Processes & Aeolian Geomorphology 
 ::: {.theme-description}
-Research examining interactions among coastal morphology, ecological processes, conservation management, and the use of beach and dune environments.
+Research investigating wind flow, sediment transport, surface roughness, and the processes that shape coastal dunes and aeolian landscapes.
 :::
 
 ::: {.publication-grid}
+
+::: {.publication-item}
+::: {.publication-year}
+2026
+:::
+
+::: {.publication-details}
+### Wrack as a Roughness Element: Nonlinear Controls on Wind Reduction and Sediment Deposition in a Coastal Dune System
+
+::: {.publication-authors}
+**Schmutz, P.P.**, S.R. Seals, J. Agin <sup>UG</sup>, and P. Tereszkiewicz
+:::
+
+::: {.publication-source}
+*Aeolian Research*, In Review.
+:::
+
+::: {.publication-links}
+[Pre-Print DOI](https://doi.org/10.1016/j.aeolia.2024.100957){.publication-button}
+:::
+:::
+:::
+
 
 ::: {.publication-item}
 ::: {.publication-year}
@@ -170,7 +170,7 @@ Research examining interactions among coastal morphology, ecological processes, 
 :::
 
 ::: {.publication-details}
-## Lagging behind: Impact of non-native gravel within a coastal dune system
+### Lagging behind: Impact of non-native gravel within a coastal dune system
 
 ::: {.publication-authors}
 **Schmutz, P.P.**, & T. Briggs<sup>U</sup>, and S.R. Seals. 
@@ -193,7 +193,7 @@ Research examining interactions among coastal morphology, ecological processes, 
 :::
 
 ::: {.publication-details}
-## Macroscopic flow disequilibrium over aeolian dune fields
+### Macroscopic flow disequilibrium over aeolian dune fields
 
 ::: {.publication-authors}
 Gunn, A., **P.P. Schmutz**, M. Wanker, D.A. Edmonds, R.C. Ewing, and D.J. Jerolmack
@@ -218,7 +218,7 @@ Gunn, A., **P.P. Schmutz**, M. Wanker, D.A. Edmonds, R.C. Ewing, and D.J. Jerolm
 :::
 
 ::: {.publication-details}
-## The utility of an omni-directional photoelectronic sensor device to measure meso-scale variability in aeolian sediment transport activity
+### The utility of an omni-directional photoelectronic sensor device to measure meso-scale variability in aeolian sediment transport activity
 
 ::: {.publication-authors}
 **Schmutz, P.P.**, T. Briggs<sup>U</sup>, and P. Tereszkiewicz
@@ -242,7 +242,7 @@ Gunn, A., **P.P. Schmutz**, M. Wanker, D.A. Edmonds, R.C. Ewing, and D.J. Jerolm
 
 ### Beach Surface Moisture
 ::: {.theme-description}
-Research examining interactions among coastal morphology, ecological processes, conservation management, and the use of beach and dune environments.
+Research measuring and modeling the spatial and temporal variability of beach surface moisture and its influence on coastal sediment transport.
 :::
 
 ::: {.publication-grid}
@@ -253,7 +253,7 @@ Research examining interactions among coastal morphology, ecological processes, 
 :::
 
 ::: {.publication-details}
-## The Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture
+### The Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture
 
 ::: {.publication-authors}
 Nelson, S.A.<sup>U</sup>, and **P.P. Schmutz**
@@ -272,22 +272,95 @@ Nelson, S.A.<sup>U</sup>, and **P.P. Schmutz**
 
 ::: {.publication-item}
 ::: {.publication-year}
-2010
+2018
 :::
 
 ::: {.publication-details}
-### The Effect on Coastal Vegetation of Trampling on a Parabolic Dune
+### Measurement and modeling of the spatiotemporal dynamics of beach surface moisture content
 
 ::: {.publication-authors}
-Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, N.A.R. Revelo, and O.A.J. Orocio
+**Schmutz, P.P.**, and S.L. Namikas
 :::
 
 ::: {.publication-source}
-*Aeolian Research*, 2(2), 105–111.
+*Aeolian Research*, *34*, 35-48.
 :::
 
 ::: {.publication-links}
-[DOI](https://doi.org/10.1016/j.aeolia.2010.03.001){.publication-button}
+[DOI](https://doi.org/10.1016/j.aeolia.2018.08.001){.publication-button}
+:::
+
+:::
+:::
+:::
+
+::: {.publication-item}
+::: {.publication-year}
+2013
+:::
+
+::: {.publication-details}
+### Measurements and Modeling of Moisture Contents Above an Oscillating Water Table: Implications for Beach Surface Moisture Dynamics
+
+::: {.publication-authors}
+**Schmutz, P.P.**, and S.L. Namikas
+:::
+
+::: {.publication-source}
+*Earth Surface Processes and Landforms*, *38* (11), 1317-1325.
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1002/esp.3418){.publication-button}
+:::
+
+:::
+:::
+:::
+
+
+::: {.publication-item}
+::: {.publication-year}
+2012
+:::
+
+::: {.publication-details}
+### Comparison of surface moisture measurements to depth-integrated moisture measurements on a fine-grained beach
+
+::: {.publication-authors}
+Edwards, B.L., **P.P. Schmutz**, and S.L. Namikas
+:::
+
+::: {.publication-source}
+*Journal of Coastal Research*, *29* (6), 1284-1291.
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.2112/JCOASTRES-D-12-00008.1){.publication-button}
+:::
+
+:::
+:::
+:::
+
+::: {.publication-item}
+::: {.publication-year}
+2011
+:::
+
+::: {.publication-details}
+### Utility of Delta-T Theta Probe for Obtaining Moisture Measurements from Beaches
+
+::: {.publication-authors}
+**Schmutz, P.P.**, and S.L. Namikas
+:::
+
+::: {.publication-source}
+*Journal of Coastal Research*, *27* (3), 478-485.
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.2112/08-1130.1){.publication-button}
 :::
 
 :::
@@ -301,7 +374,7 @@ Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, 
 
 ### Coastal Communities, Heritage, & Human Dimensions
 ::: {.theme-description}
-Research examining interactions among coastal morphology, ecological processes, conservation management, and the use of beach and dune environments.
+Research exploring how coastal communities perceive, value, manage, and respond to environmental change, cultural landscapes, and coastal hazards.
 :::
 
 ::: {.publication-grid}
@@ -312,7 +385,7 @@ Research examining interactions among coastal morphology, ecological processes, 
 :::
 
 ::: {.publication-details}
-## The Impacts of Climate Change on Coastal Georgia Heritage Tourism Sites.
+### The Impacts of Climate Change on Coastal Georgia Heritage Tourism Sites.
 
 ::: {.publication-authors}
 Corkran, R.<sup>U</sup>, A.E. Potter, and **P.P. Schmutz**
@@ -335,7 +408,7 @@ Corkran, R.<sup>U</sup>, A.E. Potter, and **P.P. Schmutz**
 :::
 
 ::: {.publication-details}
-## Beach User Perception on the Economic and Ecological Importance of Sand Dunes at Pensacola Beach, Florida
+### Beach User Perception on the Economic and Ecological Importance of Sand Dunes at Pensacola Beach, Florida
 
 ::: {.publication-authors}
 Harris, E.<sup>G</sup>, **P.P. Schmutz**, C. Jackson<sup>G</sup>, M. Anaya<sup>U</sup>, M. Johnson<sup>U</sup>, and G. Chapman<sup>U</sup>
@@ -360,7 +433,7 @@ Harris, E.<sup>G</sup>, **P.P. Schmutz**, C. Jackson<sup>G</sup>, M. Anaya<sup>U
 :::
 
 ::: {.publication-details}
-## The ecosystem service of property protection and exposure to environmental stressors in the Gulf of Mexico.
+### The ecosystem service of property protection and exposure to environmental stressors in the Gulf of Mexico.
 
 ::: {.publication-authors}
 Jackson, C.<sup>G</sup>, **P.P. Schmutz**, M. Harwell, and C. Littles
@@ -384,9 +457,9 @@ Jackson, C.<sup>G</sup>, **P.P. Schmutz**, M. Harwell, and C. Littles
 
 ::: {.publication-theme}
 
-### Miscellaneous Geography Research
+### Cultural Landscapes & Regional Geography
 ::: {.theme-description}
-Research examining interactions among coastal morphology, ecological processes, conservation management, and the use of beach and dune environments.
+Research examining cultural landscapes, community expression, regional identity, heritage, and the relationships between people and place.
 :::
 
 ::: {.publication-grid}
@@ -397,10 +470,10 @@ Research examining interactions among coastal morphology, ecological processes, 
 :::
 
 ::: {.publication-details}
-## Graffiti as Community Expression at Pensacola, Florida's Graffiti Bridge 
+### Graffiti as Community Expression at Pensacola, Florida's Graffiti Bridge 
 
 ::: {.publication-authors}
-**Schmutz, P.P.** and A.P. Potter
+**Schmutz, P.P.** and A.E. Potter
 :::
 
 ::: {.publication-source}
@@ -413,25 +486,24 @@ Research examining interactions among coastal morphology, ecological processes, 
 :::
 :::
 
-
 ::: {.publication-item}
 ::: {.publication-year}
-2010
+2017
 :::
 
 ::: {.publication-details}
-### The Effect on Coastal Vegetation of Trampling on a Parabolic Dune
+### Aruba, Curacao, and Bonaire
 
 ::: {.publication-authors}
-Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, N.A.R. Revelo, and O.A.J. Orocio
+**Schmutz, P.P.**, A.E. Potter, and A.E. Modlin
 :::
 
 ::: {.publication-source}
-*Aeolian Research*, 2(2), 105–111.
+*In: Allen, C (Ed.), Landscapes and Landforms of the Lesser Antilles*. Springer International Publishing.
 :::
 
 ::: {.publication-links}
-[DOI](https://doi.org/10.1016/j.aeolia.2010.03.001){.publication-button}
+[DOI](https://doi.org/10.1007/978-3-319-55787-8){.publication-button}
 :::
 
 :::
@@ -447,35 +519,3 @@ Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, 
 
 
 
-
-
-
-
-
-
-
-
-
-**Schmutz, P.P.**, and S.L. Namikas. 2018. Measurement and modeling of the spatiotemporal dynamics of beach surface moisture content. *Aeolian Research*, *34*, 35-48. <https://doi.org/10.1016/j.aeolia.2018.08.001>
-
-**Schmutz, P.P.**, and S.L. Namikas. 2013. Measurements and Modeling of Moisture Contents Above an Oscillating Water Table: Implications for Beach Surface Moisture Dynamics. *Earth Surface Processes and Landforms*, *38* (11), 1317--1325. <https://doi.org/10.1002/esp.3418>
-
-Edwards, B.L., **P.P. Schmutz**, and S.L. Namikas. 2012. Comparison of surface moisture measurements to depth-integrated moisture measurements on a fine-grained beach. *Journal of Coastal Research*, *29* (6), 1284-1291. <https://doi.org/10.2112/JCOASTRES-D-12-00008.1>
-
-**Schmutz, P.P.**, and S.L. Namikas. 2011. Utility of Delta-T Theta Probe for Obtaining Moisture Measurements from Beaches. *Journal of Coastal Research*, *27* (3), 478-485. <https://doi.org/10.2112/08-1130.1>
-
-Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, N.A.R. Revelo, and O.A.J. Orocio. 2010. The Effect on Coastal Vegetation of Trampling on a Parabolic Dune. *Aeolian Research*, *2* (2), 105-111. <https://doi.org/10.1016/j.aeolia.2010.03.001>
-
-### Book Chapters
-
-**Schmutz, P.P., A.E. Potter, and A.E. Modlin**. 2017. Aruba, Curacao, and Bonaire, *In: Allen, C (Ed.), Landscapes and Landforms of the Lesser Antilles*. Springer International Publishing. <https://doi.org/10.1007/978-3-319-55787-8>
-
-### Technical Reports (Non-Peer-Reviewed)
-
-**Schmutz, P.P**. 2021. Environmental assessment of the Captain Sams Spit and applicability of the property to accommodate a South Carolina State Park. *Report \# 1.* South Carolina Department of Parks, Recreation, & Tourism.
-
-### In Review
-
-Cox, D.<sup>G</sup>, **P.P. Schmutz**, and S.R. Seals. In Review (2026). Modeling Loggerhead (Caretta caretta) Nesting Site Selection Probability Using Presence-Pseudo-Absence Data. *Ecosphere*.
-
-**Schmutz, P.P.**, S.R. Seals, J. Agin <sup>UG</sup>, and P. Tereszkiewicz. In Review (2026). Wrack as Dynamic Roughness: Controls on Wind Reduction and Sediment Deposition. *Aeolian Research*.
