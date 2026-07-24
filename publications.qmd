@@ -33,12 +33,6 @@ My research examines the interactions among coastal geomorphology, ecology, and 
 :::
 
 
-### Peer-Reviewed Manuscripts
-<sup>U</sup> Undergraduate student co-author\
-<sup>G</sup> Graduate student co-author
-
-
-
 
 ::: {.publication-theme}
 
@@ -101,16 +95,15 @@ Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, 
 
 
 
-For a full list, see [Google Scholar](https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Phillip-Schmutz-2) or [ORCID](https://orcid.org/0000-0002-7243-4815).
 
 
 
 
 
 
-
-
-
+### Peer-Reviewed Manuscripts
+<sup>U</sup> Undergraduate student co-author\
+<sup>G</sup> Graduate student co-author
 
 
 Williams, M.<sup>G</sup>, and **P.P. Schmutz**. 2026. Space--Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida. *Southeastern Geographer*, *66* (2), 152-180. <https://doi.org/10.1353/sgo.0.a981639>

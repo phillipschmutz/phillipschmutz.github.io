@@ -334,3 +334,51 @@ main.content {
     padding: 1.1rem;
   }
 }
+
+
+/* =========================================================
+   COMPACT PUBLICATION CARDS
+   Add this block at the bottom of publication.css
+   ========================================================= */
+
+.publication-item {
+  min-height: 0;
+}
+
+.publication-details {
+  padding: 0.85rem 1rem;
+}
+
+.publication-details h3,
+.publication-title {
+  margin: 0 0 0.4rem;
+  font-size: 0.82rem;
+  line-height: 1.25;
+}
+
+.publication-authors {
+  margin: 0 0 0.25rem;
+  font-size: 0.76rem;
+  line-height: 1.3;
+}
+
+.publication-source {
+  margin: 0 0 0.45rem;
+  font-size: 0.76rem;
+  line-height: 1.3;
+}
+
+.publication-year {
+  padding: 0.75rem 0.35rem;
+  font-size: 0.9rem;
+}
+
+.publication-links {
+  margin-top: 0.25rem;
+  padding-top: 0.15rem;
+}
+
+.publication-button {
+  padding: 0.35rem 0.55rem;
+  font-size: 0.7rem;
+}
