@@ -86,7 +86,7 @@ CURRENT COURSES
     margin:0 0 .7rem;
     padding:0 0 .4rem;
 
-    border-bottom:3px solid #0b5ba7;
+    border-bottom:2px solid #0b5ba7;
 
     color:#29465d;
 
@@ -101,7 +101,6 @@ CURRENT COURSES
 }
 
 /* Course metadata */
-
 .course-meta{
     margin:0 0 .75rem;
     padding:0;
@@ -117,14 +116,12 @@ CURRENT COURSES
 }
 
 /* Description */
-
 .course-card > p{
     margin:0 0 .8rem;
     line-height:1.55;
 }
 
 /* Topics */
-
 .course-topics{
     margin:.15rem 0 0;
 }
@@ -144,7 +141,6 @@ CURRENT COURSES
 }
 
 /* Button area */
-
 .course-actions{
     margin-top:auto;
     padding-top:.5rem;
