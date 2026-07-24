@@ -27,6 +27,11 @@ My research examines the interactions among coastal geomorphology, ecology, and 
 :::
 
 ::: {.publication-card}
+<span class="stat-number">7</span>
+<span class="stat-label">Publications w/ Students</span>
+:::
+
+::: {.publication-card}
 <span class="stat-number">263</span>
 <span class="stat-label">Google Scholar Citations</span>
 :::

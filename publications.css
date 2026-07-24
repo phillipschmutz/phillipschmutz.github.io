@@ -29,7 +29,7 @@ main.content {
 
 .publication-stats {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 1.1rem;
   margin: 1.4rem 0 0.65rem;
 }
@@ -197,7 +197,7 @@ main.content {
   margin: 0 0 0.28rem;
   font-size: 0.9rem;
   font-weight: 700;
-  line-height: 1.25;
+  line-height: 1.3;
   color: #2b63a8;
 }
 
@@ -238,7 +238,7 @@ main.content {
   align-items: center;
   justify-content: center;
 
-  padding: 0.32rem 0.55rem;
+  padding: 0.32rem 0.32rem;
 
   background: #0b5ba7;
   border: 1px solid #0b5ba7;
@@ -333,6 +333,6 @@ main.content {
   }
 
   .publication-details {
-    padding: 0.85rem 1rem;
+    padding: 0.85rem .85rem;
   }
 }
