@@ -29,6 +29,7 @@ This course focuses on the origin and development of landforms and landscapes on
 
 ::: {.course-topics}
 **Topics**
+
 - Linear vs. Complex Systems Theory
 - Geomorphic Models
 - Applied Geomorphology
@@ -59,6 +60,7 @@ A hands-on laboratory course accompanying GEO 3210 that emphasizes field and lab
 
 ::: {.course-topics}
 **Topics**
+
 - Geomorphic Modeling
 - Sediment Transport Processes
 - Landscape Evolution
@@ -90,6 +92,7 @@ An introduction to designing and conducting research in the environmental scienc
 
 ::: {.course-topics}
 **Topics**
+
 - Literature Review
 - Statistical Analysis
 - Scientific Communication
