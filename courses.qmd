@@ -113,7 +113,7 @@ An introduction to designing and conducting research in the environmental scienc
 ::: {.mini-course-grid}
 ::: {.mini-course}
 ### GEO 4214 / 5216
-Aeolian Geomorphology
+### Aeolian Geomorphology
 
 Undergraduate & Graduate • In Person
 
