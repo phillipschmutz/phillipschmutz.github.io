@@ -11,61 +11,96 @@ Teaching is grounded in active, research-driven learning where students develop 
 ## Current Courses: Fall 2026
 
 ::: {.course-grid}
+
 ::: {.course-card}
-### GEO 3210
-## Geomorphology
+::: {.course-number}
+GEO 3210
+:::
 
-**Undergraduate • In Person**
+::: {.course-title}
+Geomorphology
+:::
 
-This course will focus on the origin and development of landforms and landscapes on the Earth's surface, with a systematic analysis of the geomorphic processes that produce and modify them.
+::: {.course-meta}
+Undergraduate • In Person
+:::
 
+This course focuses on the origin and development of landforms and landscapes on Earth’s surface, with a systematic analysis of the geomorphic processes that produce and modify them.
+
+::: {.course-topics}
 **Topics**
-
-- Linear vs Complex Systems Theory
+- Linear vs. Complex Systems Theory
 - Geomorphic Models
 - Applied Geomorphology
 - Surface Processes & Landforms (Fluvial, Coastal, Glacial, etc.)
+:::
 
+::: {.course-actions}
 [Course Website](courses/geo3210.qmd){.course-button}
 :::
 
-::: {.course-card}
-### GEO 3210L
-## Geomorphology Lab
+:::
 
-**Undergraduate • In Person**
+
+::: {.course-card}
+::: {.course-number}
+GEO 3210L
+:::
+
+::: {.course-title}
+Geomorphology Lab
+:::
+
+::: {.course-meta}
+Undergraduate • In Person
+:::
 
 A hands-on laboratory course accompanying GEO 3210 that emphasizes field and laboratory investigations of geomorphic processes. Students apply quantitative analyses and geomorphic principles to interpret data and evaluate landform and landscape evolution.
 
+::: {.course-topics}
 **Topics**
-
 - Geomorphic Modeling
 - Sediment Transport Processes
 - Landscape Evolution
 - Topographic Surveying
 - Field Report
+:::
 
-[Course Website](courses/geo3210lab.qmd){.course-button}
+::: {.course-actions}
+[Course Website](courses/geo3210L.qmd){.course-button}
+:::
+
 :::
 
 
 ::: {.course-card}
-### GEO 6118
-## Research Design
+::: {.course-number}
+GEO 6118
+:::
 
-**Graduate • Online**
+::: {.course-title}
+Research Design
+:::
+
+::: {.course-meta}
+Graduate • Online
+:::
 
 An introduction to designing and conducting research in the environmental sciences using the scientific method. Students develop and complete an original research project from question formulation through data analysis and scientific communication.
 
+::: {.course-topics}
 **Topics**
-
-- Research Design
 - Literature Review
 - Statistical Analysis
 - Scientific Communication
 - Collaborative Research
+:::
 
+::: {.course-actions}
 [Course Website](courses/geo6118.qmd){.course-button}
+:::
+
+:::
 :::
 
 
