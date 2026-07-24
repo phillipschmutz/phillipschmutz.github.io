@@ -113,7 +113,7 @@ An introduction to designing and conducting research in the environmental scienc
 ::: {.mini-course-grid}
 ::: {.mini-course}
 ### GEO 4214 / 5216
-### Aeolian Geomorphology
+## Aeolian Geomorphology
 
 Undergraduate & Graduate • In Person
 
@@ -122,7 +122,7 @@ Undergraduate & Graduate • In Person
 
 ::: {.mini-course}
 ### GEO 4221 / 5225
-Coastal Morphology and Processes
+## Coastal Morphology and Processes
 
 Undergraduate & Graduate • In Person
 
@@ -131,7 +131,7 @@ Undergraduate & Graduate • In Person
 
 ::: {.mini-course}
 ### GEO 4221L / 5225L
-Coastal Morphology and Processes Laboratory
+## Coastal Morphology and Processes Laboratory
 
 Undergraduate & Graduate • In Person
 
@@ -140,7 +140,7 @@ Undergraduate & Graduate • In Person
 
 ::: {.mini-course}
 ### ESC 2000
-Intro to Earth Science
+## Intro to Earth Science
 
 General Education • In Person
 
@@ -151,7 +151,7 @@ General Education • In Person
 
 ::: {.mini-course}
 ### ESC 2000L
-Intro to Earth Science Laboratory
+## Intro to Earth Science Laboratory
 
 General Education • In Person
 
