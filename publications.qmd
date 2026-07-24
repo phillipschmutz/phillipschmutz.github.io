@@ -13,7 +13,7 @@ My research examines the interactions among coastal geomorphology, ecology, and 
 
 ::: {.publication-card}
 <span class="stat-number">15</span>
-<span class="stat-label">Peer-Reviewed Publications</span>
+<span class="stat-label">Peer-Reviewed<br>Publications</span>
 :::
 
 ::: {.publication-card}
@@ -28,12 +28,12 @@ My research examines the interactions among coastal geomorphology, ecology, and 
 
 ::: {.publication-card}
 <span class="stat-number">7</span>
-<span class="stat-label">Publications w/ Students</span>
+<span class="stat-label">Publications<br>w/ Students</span>
 :::
 
 ::: {.publication-card}
 <span class="stat-number">263</span>
-<span class="stat-label">Google Scholar Citations</span>
+<span class="stat-label">Google Scholar<br>Citations</span>
 :::
 :::
 
