@@ -67,6 +67,7 @@ Cox, D.<sup>G</sup>, **P.P. Schmutz**, and S.R. Seals
 ::: {.publication-links}
 [Pre-print DOI](https://doi.org/10.22541/au.175525924.40059675/v1){.publication-button}
 :::
+
 :::
 :::
 
@@ -150,7 +151,7 @@ Research investigating wind flow, sediment transport, surface roughness, and the
 ### Wrack as a Roughness Element: Nonlinear Controls on Wind Reduction and Sediment Deposition in a Coastal Dune System
 
 ::: {.publication-authors}
-**Schmutz, P.P.**, S.R. Seals, J. Agin <sup>UG</sup>, and P. Tereszkiewicz
+**Schmutz, P.P.**, S.R. Seals, J. Agin <sup>U</sup>, and P. Tereszkiewicz
 :::
 
 ::: {.publication-source}
@@ -158,8 +159,9 @@ Research investigating wind flow, sediment transport, surface roughness, and the
 :::
 
 ::: {.publication-links}
-[Pre-Print DOI](https://doi.org/10.1016/j.aeolia.2024.100957){.publication-button}
+[Pre-Print DOI](https://doi.org/10.31223/X5KZ1Q){.publication-button}
 :::
+
 :::
 :::
 
@@ -183,6 +185,7 @@ Research investigating wind flow, sediment transport, surface roughness, and the
 ::: {.publication-links}
 [DOI](https://doi.org/10.1016/j.aeolia.2024.100957){.publication-button}
 :::
+
 :::
 :::
 
@@ -207,7 +210,6 @@ Gunn, A., **P.P. Schmutz**, M. Wanker, D.A. Edmonds, R.C. Ewing, and D.J. Jerolm
 [DOI](https://doi.org/10.1029/2020GL088773){.publication-button}
 :::
 
-:::
 :::
 :::
 
@@ -266,6 +268,7 @@ Nelson, S.A.<sup>U</sup>, and **P.P. Schmutz**
 ::: {.publication-links}
 [DOI](https://doi.org/10.1016/j.geomorph.2021.107895){.publication-button}
 :::
+
 :::
 :::
 
@@ -292,7 +295,6 @@ Nelson, S.A.<sup>U</sup>, and **P.P. Schmutz**
 
 :::
 :::
-:::
 
 ::: {.publication-item}
 ::: {.publication-year}
@@ -314,7 +316,6 @@ Nelson, S.A.<sup>U</sup>, and **P.P. Schmutz**
 [DOI](https://doi.org/10.1002/esp.3418){.publication-button}
 :::
 
-:::
 :::
 :::
 
@@ -339,7 +340,6 @@ Edwards, B.L., **P.P. Schmutz**, and S.L. Namikas
 [DOI](https://doi.org/10.2112/JCOASTRES-D-12-00008.1){.publication-button}
 :::
 
-:::
 :::
 :::
 
@@ -398,6 +398,7 @@ Corkran, R.<sup>U</sup>, A.E. Potter, and **P.P. Schmutz**
 ::: {.publication-links}
 [DOI](https://doi.org/10.1353/sgo.2023.0004){.publication-button}
 :::
+
 :::
 :::
 
@@ -424,8 +425,6 @@ Harris, E.<sup>G</sup>, **P.P. Schmutz**, C. Jackson<sup>G</sup>, M. Anaya<sup>U
 
 :::
 :::
-:::
-
 
 ::: {.publication-item}
 ::: {.publication-year}
@@ -440,7 +439,7 @@ Jackson, C.<sup>G</sup>, **P.P. Schmutz**, M. Harwell, and C. Littles
 :::
 
 ::: {.publication-source}
-*Ocean and Coastal Management*, *104*, 105017.
+*Ocean and Coastal Management*, 184, 105017.
 :::
 
 ::: {.publication-links}
@@ -451,8 +450,6 @@ Jackson, C.<sup>G</sup>, **P.P. Schmutz**, M. Harwell, and C. Littles
 :::
 :::
 :::
-
-
 
 
 ::: {.publication-theme}
@@ -483,6 +480,7 @@ Research examining cultural landscapes, community expression, regional identity,
 ::: {.publication-links}
 [DOI](https://doi.org/10.1353/sgo.2024.a942020){.publication-button}
 :::
+
 :::
 :::
 
@@ -512,10 +510,15 @@ Research examining cultural landscapes, community expression, regional identity,
 :::
 
 
+---
 
-### Peer-Reviewed Manuscripts
-<sup>U</sup> Undergraduate student co-author\
+::: {.student-note}
+
+**Student Co-Authors**
+
+<sup>U</sup> Undergraduate student co-author  
 <sup>G</sup> Graduate student co-author
 
+:::
 
 

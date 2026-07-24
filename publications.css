@@ -295,6 +295,28 @@ main.content {
 
 
 /* ---------------------------------------------------------
+   STUDENT AUTHOR LEGEND
+   --------------------------------------------------------- */
+
+.student-note {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+
+  border-top: 1px solid #d8e1e8;
+
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: #5f6d78;
+}
+
+.student-note strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #29465d;
+}
+
+
+/* ---------------------------------------------------------
    RESPONSIVE DESIGN
    --------------------------------------------------------- */
 
