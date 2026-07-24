@@ -12,7 +12,7 @@ Teaching is grounded in active, research-driven learning where students develop 
 
 ::: {.course-grid}
 ::: {.course-card}
-## GEO 3210
+### GEO 3210
 ## Geomorphology
 
 **Fall 2026**
@@ -33,7 +33,7 @@ This course will focus on the origin and development of landforms and landscapes
 :::
 
 ::: {.course-card}
-## GEO 3210L
+### GEO 3210L
 ## Geomorphology Lab
 
 **Fall 2026**
@@ -55,7 +55,7 @@ A hands-on laboratory course accompanying GEO 3210 that emphasizes field and lab
 
 
 ::: {.course-card}
-## GEO 6118
+### GEO 6118
 ## Research Design
 
 **Fall 2026**

@@ -56,9 +56,9 @@ CURRENT COURSES
 .course-card h3{
     color:#2b63a8;
     margin:0;
-    font-size:.95rem;
+    font-size:1.05rem;
     text-transform:uppercase;
-    letter-spacing:.08em;
+    letter-spacing:.25em;
 }
 
 .course-card h2{
@@ -66,7 +66,7 @@ CURRENT COURSES
     border:none;
     padding:0;
     color:#29465d;
-    font-size:1.55rem;
+    font-size:1.25rem;
 }
 
 .course-card strong{
