@@ -5,61 +5,76 @@ toc: false
 css: courses.css
 ---
 
----
-title: "Teaching"
-page-layout: full
-toc: false
-css: courses.css
----
-
-# Teaching
-
 Teaching is grounded in active, research-driven learning where students develop technical skills while investigating real environmental questions. My courses emphasize field experiences, quantitative analysis, geospatial technologies, scientific writing, and collaborative research that prepares students for graduate study and professional careers.
+
 
 ## Current Courses
 
 ::: {.course-grid}
 ::: {.course-card}
-### GEO 4221
-## Coastal Morphology
+## GEO 3210
+## Geomorphology
 
 **Fall 2026**
 
 **Undergraduate • In Person**
 
-Study of beaches, dunes, barrier islands, sediment transport, coastal hazards, and shoreline change through lectures, fieldwork, and data analysis.
+This course will focus on the origin and development of landforms and landscapes on the Earth's surface, with a systematic analysis of the geomorphic processes that produce and modify them.
 
 **Topics**
 
-- Beach–dune systems
-- Sediment transport
-- Coastal geomorphology
-- Field methods
-- Drone mapping
+- Linear vs Complex Systems Theory
+- Geomorphic Models
+- Applied Geomorphology
+- Surface Processes & Landforms
+  - Fluvial, Coastal, Glacial, etc.
 
-[Course Website](#){.course-button}
+[Course Website](courses/geo3210.qmd){.course-button}
 :::
 
 ::: {.course-card}
-### EVR 3894
-## Environmental Writing
+## GEO 3210L
+## Geomorphology Lab
 
 **Fall 2026**
 
-**Undergraduate • Online**
+**Undergraduate • In Person**
 
-Development of scientific writing, literature review, research communication, and publication-quality manuscripts.
+A hands-on laboratory course accompanying GEO 3210 that emphasizes field and laboratory investigations of geomorphic processes. Students apply quantitative analyses and geomorphic principles to interpret data and evaluate landform and landscape evolution.
 
 **Topics**
 
-- Scientific writing
-- Literature review
-- Peer review
-- Data presentation
-- Citation management
+- Geomorphic Modeling
+- Sediment Transport Processes
+- Landscape Evolution
+- Topographic Surveying
+- Field Report
 
-[Course Website](#){.course-button}
+[Course Website](courses/geo3210lab.qmd){.course-button}
 :::
+
+
+::: {.course-card}
+## GEO 6118
+## Research Design
+
+**Fall 2026**
+
+**Graduate • Online**
+
+An introduction to designing and conducting research in the environmental sciences using the scientific method. Students develop and complete an original research project from question formulation through data analysis and scientific communication.
+
+**Topics**
+
+- Research Design
+- Literature Review
+- Statistical Analysis
+- Scientific Communication
+- Collaborative Research
+
+[Course Website](courses/geo6118.qmd){.course-button}
+:::
+
 
 
 :::
@@ -67,88 +82,51 @@ Development of scientific writing, literature review, research communication, an
 
 ::: {.mini-course-grid}
 ::: {.mini-course}
-### GEO 4930
-Research Design
+### GEO 4214 / 5216
+Aeolian Geomorphology
 
-Graduate • Online
+Undergraduate & Graduate • In Person
 
-[Course Materials](#){.course-button-small}
+[Course Materials](courses/geo4214){.course-button-small}
 :::
 
 ::: {.mini-course}
-### GIS 4048
-Applications in GIS
+### GEO 4221 / 5225
+Coastal Morphology and Processes
 
-Undergraduate
+Undergraduate & Graduate • In Person
 
-[Course Materials](#){.course-button-small}
+[Course Materials](courses/geo4221){.course-button-small}
 :::
 
 ::: {.mini-course}
-### GIS 3000
-Introduction to GIS
+### GEO 4221L / 5225L
+Coastal Morphology and Processes Laboratory
 
-Undergraduate
+Undergraduate & Graduate • In Person
+
+[Course Materials](courses/geo4221lab){.course-button-small}
 :::
 
 ::: {.mini-course}
 ### ESC 2000
-Earth Science
+Intro to Earth Science
 
-General Education
+General Education • In Person
+
+[Course Materials](courses/esc2000){.course-button-small}
 :::
 
-::: {.mini-course}
-### EVR 2001
-Environmental Science
 
-General Education
-:::
 
 ::: {.mini-course}
 ### ESC 2000L
-Earth Science Laboratory
+Intro to Earth Science Laboratory
 
-General Education
+General Education • In Person
+
+[Course Materials](courses/esc2000lab){.course-button-small}
 :::
 
 :::
-
-
-
-
-
-
-
-
-
-
-::: {.columns}
-::: {.column width="40%"}
-## Undergraduate Courses
-
-- [ESC 2000: Introduction to Earth Science](courses/esc2000.qmd)
-- [GEO 3210: Geomorphology](courses/geo3210.qmd)
-- [GEO 3210L: Geomorphology Lab](courses/geo3210lab.qmd)
-- [GEO 4221: Coastal Morphology](courses/geo4221.qmd)
-- [GEO 4221L: Coastal Morphology Lab](courses/geo4221lab.qmd)
-- [GEO 4214: Aeolian Geomorphology](courses/geo4214.qmd)
-:::
-
-::: {.column width="10%"}
-
-:::
-
-::: {.column width="40%"}
-
-## Graduate Courses
-
-- [GEO 5225: Coastal Morphology](courses/geo5225.qmd)
-- [GEO 5225L: Coastal Morphology Lab](courses/geo5225lab.qmd)
-- [GEO 5216: Aeolian Geomorphology](courses/geo5216.qmd)
-- [GEO 6118: Research Design](courses/geo6118.qmd)
-
-:::
-
-
 
