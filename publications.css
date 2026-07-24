@@ -1,103 +1,336 @@
+/* =========================================================
+   PUBLICATIONS PAGE
+   File: publications.css
+   ========================================================= */
 
-/* PUBLICATION THEMES */
-.publication-theme {
-  margin-top: 58px;
+/* ---------------------------------------------------------
+   PAGE WIDTH AND INTRODUCTION
+   --------------------------------------------------------- */
+
+main.content {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding-top: 1.5rem;
+  padding-bottom: 4rem;
 }
 
-.publication-theme > h2 {
-  display: inline-block;
-  margin-bottom: 8px;
-  color: #294257;
+.publications-intro {
+  max-width: 1000px;
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #4d5b66;
 }
 
-.theme-count {
-  display: inline-block;
-  margin-left: 12px;
-  padding: 4px 10px;
-  color: #0b5ba7;
-  font-size: 0.76rem;
-  font-weight: 700;
-  vertical-align: middle;
-  background: #e8f1f8;
-  border-radius: 999px;
-}
 
-/* PUBLICATION CARDS */
-.publication-card {
+/* ---------------------------------------------------------
+   STATISTICS CARDS
+   --------------------------------------------------------- */
+
+.publication-stats {
   display: grid;
-  grid-template-columns: 105px minmax(0, 1fr);
-  margin: 22px 0;
-  overflow: hidden;
-  background: #fff;
-  border: 1px solid #dce4e9;
-  border-radius: 10px;
-  box-shadow: 0 6px 18px rgba(18, 47, 70, 0.07);
-  transition:
-    transform 0.18s ease,
-    box-shadow 0.18s ease;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 0.75rem;
 }
 
-.publication-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 26px rgba(18, 47, 70, 0.12);
+.publication-stat-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 145px;
+  padding: 1.5rem 1rem;
+
+  background: #ffffff;
+  border: 1px solid #d8e1e8;
+  border-radius: 12px;
+
+  text-align: center;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
+
+.publication-stat-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 9px 22px rgba(0, 0, 0, 0.10);
+}
+
+.stat-number {
+  display: block;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #0b5ba7;
+}
+
+.stat-label {
+  display: block;
+  margin-top: 0.7rem;
+  font-size: 0.94rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #4d5b66;
+}
+
+.stats-note {
+  margin: 0.7rem 0 3rem;
+  text-align: center;
+  font-size: 0.82rem;
+  color: #7b8792;
+}
+
+
+/* ---------------------------------------------------------
+   RESEARCH THEME SECTIONS
+   --------------------------------------------------------- */
+
+.publication-theme {
+  margin-top: 3.5rem;
+}
+
+.publication-theme h2 {
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.6rem;
+
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #29465d;
+
+  border-bottom: 3px solid #0b5ba7;
+}
+
+.theme-description {
+  max-width: 1050px;
+  margin: 0 0 1.5rem;
+  font-size: 1rem;
+  line-height: 1.65;
+  color: #5f6d78;
+}
+
+
+/* ---------------------------------------------------------
+   TWO-COLUMN PUBLICATION GRID
+   --------------------------------------------------------- */
+
+.publication-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  align-items: stretch;
+}
+
+
+/* ---------------------------------------------------------
+   INDIVIDUAL PUBLICATION CARDS
+   --------------------------------------------------------- */
+
+.publication-item {
+  display: grid;
+  grid-template-columns: 78px minmax(0, 1fr);
+
+  min-width: 0;
+  min-height: 210px;
+
+  padding: 0;
+  overflow: hidden;
+
+  background: #ffffff;
+  border: 1px solid #d8e1e8;
+  border-radius: 12px;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.publication-item:hover {
+  transform: translateY(-2px);
+  border-color: #b8c8d6;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.09);
+}
+
+
+/* ---------------------------------------------------------
+   YEAR PANEL
+   --------------------------------------------------------- */
 
 .publication-year {
   display: flex;
-  padding: 24px 12px;
   align-items: center;
   justify-content: center;
-  color: #fff;
-  font-size: 1.15rem;
+
+  padding: 1rem 0.5rem;
+
+  background: #29465d;
+  color: #ffffff;
+
+  font-size: 1.08rem;
   font-weight: 700;
-  background: #294257;
+  line-height: 1;
+  text-align: center;
 }
+
+
+/* ---------------------------------------------------------
+   PUBLICATION CONTENT
+   --------------------------------------------------------- */
 
 .publication-details {
-  padding: 24px 28px;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1.2rem 1.25rem;
 }
 
-.publication-details h3 {
-  margin: 0 0 10px;
-  color: #243f54;
-  font-size: 1.18rem;
-  line-height: 1.35;
+.publication-title {
+  margin: 0 0 0.65rem;
+
+  font-size: 1.04rem;
+  font-weight: 700;
+  line-height: 1.38;
+  color: #334f63;
 }
 
-.publication-details p {
-  margin: 8px 0;
-  line-height: 1.6;
+.publication-authors {
+  margin: 0 0 0.4rem;
+
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: #3f4e58;
 }
+
+.publication-source {
+  margin: 0 0 0.8rem;
+
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: #5f6d78;
+}
+
+.publication-source em {
+  color: #3e505d;
+}
+
+
+/* ---------------------------------------------------------
+   DOI BUTTON
+   --------------------------------------------------------- */
 
 .publication-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 9px;
-  margin-top: 18px;
+  gap: 0.5rem;
+  margin-top: auto;
+  padding-top: 0.45rem;
 }
 
 .publication-button {
-  display: inline-block;
-  padding: 7px 14px;
-  color: #fff !important;
-  font-size: 0.8rem;
-  font-weight: 700;
-  text-decoration: none !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0.48rem 0.75rem;
+
   background: #0b5ba7;
   border: 1px solid #0b5ba7;
-  border-radius: 5px;
+  border-radius: 6px;
+
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  text-decoration: none;
+
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease;
 }
 
 .publication-button:hover {
-  background: #084983;
+  transform: translateY(-1px);
+  background: #08477f;
+  border-color: #08477f;
+  color: #ffffff;
+  text-decoration: none;
 }
 
-.publication-button-secondary {
-  color: #0b5ba7 !important;
-  background: #fff;
+
+/* ---------------------------------------------------------
+   STUDENT AUTHOR NOTE
+   --------------------------------------------------------- */
+
+.student-note {
+  margin-top: 2rem;
+  font-size: 0.84rem;
+  line-height: 1.5;
+  color: #6d7b85;
 }
 
-.publication-button-secondary:hover {
-  background: #edf4f9;
+.publication-authors sup {
+  font-size: 0.7em;
+  font-weight: 700;
+  color: #0b5ba7;
 }
 
+
+/* ---------------------------------------------------------
+   RESPONSIVE DESIGN
+   --------------------------------------------------------- */
+
+@media (max-width: 1000px) {
+
+  .publication-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .publication-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+@media (max-width: 600px) {
+
+  main.content {
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+  }
+
+  .publication-stats {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .publication-stat-card {
+    min-height: 125px;
+  }
+
+  .publication-theme {
+    margin-top: 2.75rem;
+  }
+
+  .publication-theme h2 {
+    font-size: 1.45rem;
+  }
+
+  .publication-item {
+    grid-template-columns: 1fr;
+    min-height: auto;
+  }
+
+  .publication-year {
+    padding: 0.75rem 1rem;
+  }
+
+  .publication-details {
+    padding: 1.1rem;
+  }
+}

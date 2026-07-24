@@ -41,6 +41,7 @@ format:
     css:
       - styles.css
       - homepage.css
+      - publications.css
 
     include-in-header:
       text: |

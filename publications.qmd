@@ -5,73 +5,96 @@ toc: false
 css: publications.css
 ---
 
+My research examines the interactions among coastal geomorphology, ecology, and human systems, with particular emphasis on beach–dune processes, species distribution modeling, and coastal resilience. Publications are grouped by research theme.
 
-## Publications
-
-My research examines coastal and aeolian geomorphology, beach–dune systems, species distribution modeling, and geospatial approaches to environmental analysis.
+## At a Glance
 
 ::: {.publication-stats}
 
-::: {.publication-stat}
+::: {.publication-card}
 <span class="stat-number">15</span>
 <span class="stat-label">Peer-Reviewed Publications</span>
 :::
 
-::: {.publication-stat}
+::: {.publication-card}
 <span class="stat-number">1</span>
 <span class="stat-label">Book Chapter</span>
 :::
 
-::: {.publication-stat}
+::: {.publication-card}
 <span class="stat-number">8</span>
-<span class="stat-label">Journals</span>
+<span class="stat-label">Academic Journals</span>
 :::
 
-::: {.publication-stat}
+::: {.publication-card}
 <span class="stat-number">263</span>
-<span class="stat-label">Citations</span>
+<span class="stat-label">Google Scholar Citations</span>
 :::
-
-::: {.stats-note}
-Citation count based on Google Scholar and updated July 2026.
-:::
-
 :::
 
 
+### Peer-Reviewed Manuscripts
 <sup>U</sup> Undergraduate student co-author\
 <sup>G</sup> Graduate student co-author
 
+
+
+
 ::: {.publication-theme}
 
-## Sea Turtle Nesting & Habitat Modeling
+## Coastal Ecology & Conservation
+::: {.theme-description}
+Research examining interactions among coastal morphology, ecological processes, conservation management, and the use of beach and dune environments.
+:::
 
-<span class="theme-count">XX publications</span>
+::: {.publication-grid}
 
-Research examining the spatial and morphological controls on sea turtle nesting, nesting clusters, and habitat suitability.
-
-
-::: {.publication-card}
-
+::: {.publication-item}
 ::: {.publication-year}
 2026
 :::
 
 ::: {.publication-details}
-
 ### Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida
 
-Williams, M.<sup>G</sup>, and **P.P. Schmutz**.  
-*Southeastern Geographer*
+::: {.publication-authors}
+Williams, M.G., and **P.P. Schmutz**
+:::
 
-This study uses spatial and temporal methods to identify persistent and shifting concentrations of sea turtle nesting activity across developed and protected coastal landscapes.
+::: {.publication-source}
+*Southeastern Geographer*, 66(2), 152–180.
+:::
 
 ::: {.publication-links}
-[DOI](https://doi.org/10.1353/sgo.0.a98163){.publication-button}
+[DOI](https://doi.org/10.1353/sgo.0.a981639){.publication-button}
+:::
+:::
+:::
+
+
+::: {.publication-item}
+::: {.publication-year}
+2010
+:::
+
+::: {.publication-details}
+### The Effect on Coastal Vegetation of Trampling on a Parabolic Dune
+
+::: {.publication-authors}
+Hesp, P.A., **P.P. Schmutz**, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, N.A.R. Revelo, and O.A.J. Orocio
+:::
+
+::: {.publication-source}
+*Aeolian Research*, 2(2), 105–111.
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1016/j.aeolia.2010.03.001){.publication-button}
 :::
 
 :::
-
+:::
+:::
 :::
 
 
@@ -88,7 +111,7 @@ For a full list, see [Google Scholar](https://scholar.google.com/citations?user=
 
 
 
-### Peer-Reviewed Manuscripts
+
 
 Williams, M.<sup>G</sup>, and **P.P. Schmutz**. 2026. Space--Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida. *Southeastern Geographer*, *66* (2), 152-180. <https://doi.org/10.1353/sgo.0.a981639>
 
