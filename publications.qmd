@@ -1,12 +1,92 @@
 ---
 title: "Publications"
+page-layout: full
+toc: false
+css: publications.css
 ---
 
-For a full list, see [Google Scholar](https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Phillip-Schmutz-2) or [ORCID](https://orcid.org/0000-0002-7243-4815).
+
+## Publications
+
+My research examines coastal and aeolian geomorphology, beach–dune systems, species distribution modeling, and geospatial approaches to environmental analysis.
+
+::: {.publication-stats}
+
+::: {.publication-stat}
+<span class="stat-number">15</span>
+<span class="stat-label">Peer-Reviewed Publications</span>
+:::
+
+::: {.publication-stat}
+<span class="stat-number">1</span>
+<span class="stat-label">Book Chapter</span>
+:::
+
+::: {.publication-stat}
+<span class="stat-number">8</span>
+<span class="stat-label">Journals</span>
+:::
+
+::: {.publication-stat}
+<span class="stat-number">263</span>
+<span class="stat-label">Citations</span>
+:::
+
+::: {.stats-note}
+Citation count based on Google Scholar and updated July 2026.
+:::
+
+:::
 
 
 <sup>U</sup> Undergraduate student co-author\
 <sup>G</sup> Graduate student co-author
+
+::: {.publication-theme}
+
+## Sea Turtle Nesting & Habitat Modeling
+
+<span class="theme-count">XX publications</span>
+
+Research examining the spatial and morphological controls on sea turtle nesting, nesting clusters, and habitat suitability.
+
+
+::: {.publication-card}
+
+::: {.publication-year}
+2026
+:::
+
+::: {.publication-details}
+
+### Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida
+
+Williams, M.<sup>G</sup>, and **P.P. Schmutz**.  
+*Southeastern Geographer*
+
+This study uses spatial and temporal methods to identify persistent and shifting concentrations of sea turtle nesting activity across developed and protected coastal landscapes.
+
+::: {.publication-links}
+[DOI](https://doi.org/10.1353/sgo.0.a98163){.publication-button}
+:::
+
+:::
+
+:::
+
+
+
+
+
+For a full list, see [Google Scholar](https://scholar.google.com/citations?user=6eBNIrgAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Phillip-Schmutz-2) or [ORCID](https://orcid.org/0000-0002-7243-4815).
+
+
+
+
+
+
+
+
 
 ### Peer-Reviewed Manuscripts
 
