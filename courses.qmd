@@ -1,6 +1,127 @@
 ---
 title: "Courses"
+page-layout: full
+toc: false
+css: courses.css
 ---
+
+---
+title: "Teaching"
+page-layout: full
+toc: false
+css: courses.css
+---
+
+# Teaching
+
+Teaching is grounded in active, research-driven learning where students develop technical skills while investigating real environmental questions. My courses emphasize field experiences, quantitative analysis, geospatial technologies, scientific writing, and collaborative research that prepares students for graduate study and professional careers.
+
+## Current Courses
+
+::: {.course-grid}
+::: {.course-card}
+### GEO 4221
+## Coastal Morphology
+
+**Fall 2026**
+
+**Undergraduate • In Person**
+
+Study of beaches, dunes, barrier islands, sediment transport, coastal hazards, and shoreline change through lectures, fieldwork, and data analysis.
+
+**Topics**
+
+- Beach–dune systems
+- Sediment transport
+- Coastal geomorphology
+- Field methods
+- Drone mapping
+
+[Course Website](#){.course-button}
+:::
+
+::: {.course-card}
+### EVR 3894
+## Environmental Writing
+
+**Fall 2026**
+
+**Undergraduate • Online**
+
+Development of scientific writing, literature review, research communication, and publication-quality manuscripts.
+
+**Topics**
+
+- Scientific writing
+- Literature review
+- Peer review
+- Data presentation
+- Citation management
+
+[Course Website](#){.course-button}
+:::
+
+
+:::
+## Additional Courses Taught
+
+::: {.mini-course-grid}
+::: {.mini-course}
+### GEO 4930
+Research Design
+
+Graduate • Online
+
+[Course Materials](#){.course-button-small}
+:::
+
+::: {.mini-course}
+### GIS 4048
+Applications in GIS
+
+Undergraduate
+
+[Course Materials](#){.course-button-small}
+:::
+
+::: {.mini-course}
+### GIS 3000
+Introduction to GIS
+
+Undergraduate
+:::
+
+::: {.mini-course}
+### ESC 2000
+Earth Science
+
+General Education
+:::
+
+::: {.mini-course}
+### EVR 2001
+Environmental Science
+
+General Education
+:::
+
+::: {.mini-course}
+### ESC 2000L
+Earth Science Laboratory
+
+General Education
+:::
+
+:::
+
+
+
+
+
+
+
+
+
 
 ::: {.columns}
 ::: {.column width="40%"}

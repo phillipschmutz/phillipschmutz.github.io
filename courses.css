@@ -1,0 +1,147 @@
+/* ==========================================================
+COURSES PAGE
+==========================================================*/
+
+main.content{
+    max-width:1500px;
+    margin:auto;
+}
+
+/*---------------------------------------------------------
+INTRO
+---------------------------------------------------------*/
+
+p{
+    line-height:1.7;
+}
+
+/*---------------------------------------------------------
+HEADINGS
+---------------------------------------------------------*/
+
+h2{
+    margin-top:3rem;
+    margin-bottom:1rem;
+    padding-bottom:.4rem;
+    border-bottom:3px solid #0b5ba7;
+}
+
+/*---------------------------------------------------------
+CURRENT COURSES
+---------------------------------------------------------*/
+
+.course-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(420px,1fr));
+    gap:2rem;
+    margin-top:1.5rem;
+}
+
+.course-card{
+    display:flex;
+    flex-direction:column;
+    padding:1.6rem;
+    border:1px solid #d7e2ea;
+    border-radius:14px;
+    background:white;
+    box-shadow:0 4px 14px rgba(0,0,0,.05);
+    transition:.2s;
+}
+
+.course-card:hover{
+    transform:translateY(-3px);
+    box-shadow:0 10px 22px rgba(0,0,0,.08);
+}
+
+.course-card h3{
+    color:#2b63a8;
+    margin:0;
+    font-size:.95rem;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+}
+
+.course-card h2{
+    marin:.2rem 0 1rem;
+    border:none;
+    padding:0;
+    color:#29465d;
+    font-size:1.55rem;
+}
+
+.course-card strong{
+    display:block;
+    margin-bottom:.75rem;
+}
+
+.course-card ul{
+    margin-top:.5rem;
+    padding-left:1.3rem;
+}
+
+.course-button{
+    margin-top:auto;
+    align-self:flex-start;
+    text-decoration:none;
+    padding:.45rem .8rem;
+    border-radius:6px;
+    background:#0b5ba7;
+    color:white;
+    font-size:.82rem;
+    font-weight:600;
+}
+
+.course-button:hover{
+    color:white;
+    background:#08477f;
+}
+
+
+/*---------------------------------------------------------
+COURSES TAUGHT
+---------------------------------------------------------*/
+
+.mini-course-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:1.2rem;
+    margin-top:1.5rem;
+}
+
+.mini-course{
+    padding:1.2rem;
+    border-radius:10px;
+    border:1px solid #d7e2ea;
+    background:white;
+    box-shadow:0 3px 10px rgba(0,0,0,.04);
+}
+
+.mini-course h3{
+    margin-top:0;
+    color:#2b63a8;
+    font-size:.95rem;
+}
+
+.course-button-small{
+    display:inline-block;
+    margin-top:.8rem;
+    font-size:.78rem;
+    text-decoration:none;
+    color:#0b5ba7;
+    font-weight:600;
+}
+
+.course-button-small:hover{
+    text-decoration:underline;
+}
+
+/*---------------------------------------------------------
+RESPONSIVE
+---------------------------------------------------------*/
+
+@media (max-width:900px){
+
+.course-grid{
+grid-template-columns:1fr;
+}
+}
