@@ -15,9 +15,9 @@ website:
         text: Publications
       - href: courses.qmd
         text: Teaching
-      - href: cv.qmd
+      - href: files/Schmutz_CV.pdf
         text: CV
-      - href: cgmlab.qmd
+      - href: https://cgmlabuwf.github.io
         text: Research Lab
 
     right:

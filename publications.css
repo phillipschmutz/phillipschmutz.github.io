@@ -189,32 +189,29 @@ main.content {
   flex-direction: column;
 
   min-width: 0;
-  padding: 0.7rem 0.85rem;
+  padding: 0.7rem 0.5rem;
 }
 
 .publication-details h3,
 .publication-title {
   margin: 0 0 0.28rem;
-
   font-size: 0.9rem;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.25;
   color: #2b63a8;
 }
 
 .publication-authors {
   margin: 0 0 0.2rem;
-
-  font-size: 0.79rem;
+  font-size: 0.82rem;
   line-height: 1.2;
   color: #3f4e58;
 }
 
 .publication-source {
   margin: 0 0 0.35rem;
-
-  font-size: 0.79rem;
-  line-height: 1.18;
+  font-size: 0.82rem;
+  line-height: 1.2;
   color: #5f6d78;
 }
 
