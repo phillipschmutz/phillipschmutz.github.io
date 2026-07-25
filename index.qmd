@@ -80,9 +80,11 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-symbol .role-blue}
 <i class="fa-solid fa-building-columns"></i>
 :::
+::: {.role-body}
 ### Department Leadership
 **Chair**  
 [Department of Earth and Environmental Sciences](https://uwf.edu/hmcse/departments/earth-and-environmental-sciences/)
+:::
 :::
 
 
@@ -90,9 +92,11 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-symbol .role-green}
 <i class="fa-solid fa-wind"></i>
 :::
+::: {.role-body}
 ### Research
 **Co-Director**  
 [Computational Geomorphology and Modeling Lab](https://cgmlabuwf.github.io)
+:::
 :::
 
 
@@ -100,20 +104,25 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-symbol .role-gold}
 <i class="fa-solid fa-graduation-cap"></i>
 :::
+::: {.role-body}
 ### Teaching
 **Fall 2026 Courses:**
 [Research Design (GEO 6118)](courses/geo6118.qmd)
 [Geomorphology (GEO 3210)](courses/geo3210.qmd)
 [Geomorphology Lab (GEO 3210)](courses/geo3210lab.qmd)
 :::
+:::
+
 
 ::: {.role-card}
 ::: {.role-symbol .role-orange}
 <i class="fa-solid fa-users"></i>
 :::
+::: {.role-body}
 ### Mentoring
 **Student Research**  
 Mentoring undergraduate and graduate students through research, fieldwork, and scholarly presentations.
+:::
 :::
 
 :::

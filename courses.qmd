@@ -69,7 +69,7 @@ A hands-on laboratory course accompanying GEO 3210 that emphasizes field and lab
 :::
 
 ::: {.course-actions}
-[Course Website](courses/geo3210L.qmd){.course-button}
+[Course Website](courses/geo3210lab.qmd){.course-button}
 :::
 
 :::
