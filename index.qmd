@@ -12,7 +12,7 @@ css: homepage.css
 ::: {.home-shell}
 ::: {.hero-copy}
 
-**Phillip P. Schmutz**
+# Phillip P. Schmutz
 **Associate Professor and Chair**  
 Department of Earth and Environmental Sciences  
 University of West Florida
@@ -137,7 +137,7 @@ Mentoring
 :::
 ::: {.role-body}
 **Student Research**  
-Mentoring two graduate thesis students and two undergraduate students.
+Mentoring two graduate thesis and two undergraduate students.
 :::
 :::
 
