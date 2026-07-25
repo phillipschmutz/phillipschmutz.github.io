@@ -276,7 +276,7 @@ CURRENT ROLES
 .role-header{
   display:flex;
   align-items:flex-start;
-  gap:9px;
+  gap:8px;
   margin:0 0 20px;
 }
 
@@ -359,8 +359,8 @@ CURRENT ROLES
   flex:1;
   margin:0;
   color:var(--home-navy);
-  font-size:1.rem;
-  line-height:1.15;
+  font-size:0.8.rem;
+  line-height:1.05;
 }
 
 /* Body spans full card width */
