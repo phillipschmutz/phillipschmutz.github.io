@@ -77,6 +77,7 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-grid}
 
 ::: {.role-card}
+::: {.role-header}
 ::: {.role-symbol .role-blue}
 <i class="fa-solid fa-building-columns"></i>
 :::
@@ -92,6 +93,7 @@ Department Leadership
 
 
 ::: {.role-card}
+::: {.role-header}
 ::: {.role-symbol .role-green}
 <i class="fa-solid fa-wind"></i>
 :::
@@ -107,6 +109,7 @@ Research
 
 
 ::: {.role-card}
+::: {.role-header}
 ::: {.role-symbol .role-gold}
 <i class="fa-solid fa-graduation-cap"></i>
 :::
@@ -124,6 +127,7 @@ Teaching
 
 
 ::: {.role-card}
+::: {.role-header}
 ::: {.role-symbol .role-orange}
 <i class="fa-solid fa-users"></i>
 :::
