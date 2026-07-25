@@ -32,6 +32,7 @@ website:
   page-footer:
     right: "© 2026 pschmutz, University of West Florida"
 
+
 format:
   html:
     theme: flatly
