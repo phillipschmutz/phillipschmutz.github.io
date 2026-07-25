@@ -11,8 +11,8 @@ css: homepage.css
 ::: {.home-hero-shade}
 ::: {.home-shell}
 ::: {.hero-copy}
-# Phillip P. Schmutz
 
+## Phillip P. Schmutz
 **Associate Professor and Chair**  
 Department of Earth and Environmental Sciences  
 University of West Florida
