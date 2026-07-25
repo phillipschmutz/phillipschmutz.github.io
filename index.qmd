@@ -12,7 +12,7 @@ css: homepage.css
 ::: {.home-shell}
 ::: {.hero-copy}
 
-## Phillip P. Schmutz
+**Phillip P. Schmutz**
 **Associate Professor and Chair**  
 Department of Earth and Environmental Sciences  
 University of West Florida
@@ -80,8 +80,11 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-symbol .role-blue}
 <i class="fa-solid fa-building-columns"></i>
 :::
+::: {.role-title}
+Department Leadership
+:::
+:::
 ::: {.role-body}
-### Department Leadership
 **Chair**  
 [Department of Earth and Environmental Sciences](https://uwf.edu/hmcse/departments/earth-and-environmental-sciences/)
 :::
@@ -92,8 +95,11 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-symbol .role-green}
 <i class="fa-solid fa-wind"></i>
 :::
+::: {.role-title}
+Research
+:::
+:::
 ::: {.role-body}
-### Research
 **Co-Director**  
 [Computational Geomorphology and Modeling Lab](https://cgmlabuwf.github.io)
 :::
@@ -104,8 +110,11 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-symbol .role-gold}
 <i class="fa-solid fa-graduation-cap"></i>
 :::
+::: {.role-title}
+Teaching
+:::
+:::
 ::: {.role-body}
-### Teaching
 **Fall 2026 Courses:**
 [Research Design (GEO 6118)](courses/geo6118.qmd)
 [Geomorphology (GEO 3210)](courses/geo3210.qmd)
@@ -118,10 +127,13 @@ As Chair of the Department of Earth and Environmental Sciences at the University
 ::: {.role-symbol .role-orange}
 <i class="fa-solid fa-users"></i>
 :::
+::: {.role-title}
+Mentoring
+:::
+:::
 ::: {.role-body}
-### Mentoring
 **Student Research**  
-Mentoring undergraduate and graduate students through research, fieldwork, and scholarly presentations.
+Mentoring two graduate thesis students and two undergraduate students.
 :::
 :::
 
