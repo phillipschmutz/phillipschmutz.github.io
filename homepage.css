@@ -295,14 +295,11 @@ HEADER (ICON + TITLE)
 
 .role-title{
   flex:1;
-
   margin:0;
-
   color:var(--home-navy);
-
-  font-size:1rem;
+  font-size:1.05rem;
   font-weight:700;
-  line-height:1.15;
+  line-height:1.2;
 }
 
 .role-title p{
@@ -368,15 +365,13 @@ BODY
 
 .role-body{
   margin:0;
-
   color:var(--home-muted);
-
   font-size:.90rem;
   line-height:1.55;
 }
 
 .role-body p{
-  margin:0 0 10px;
+  margin:0 0 7px;
 }
 
 .role-body p:last-child{
@@ -385,11 +380,8 @@ BODY
 
 .role-body strong{
   display:block;
-
-  margin-bottom:8px;
-
+  margin-bottom:3px;
   color:var(--home-text);
-
   font-size:1rem;
   font-weight:700;
 }
@@ -584,7 +576,7 @@ MOBILE
   }
 
   .role-title{
-    font-size:1rem;
+    font-size:1.05rem;
   }
   
   .home-portrait {
