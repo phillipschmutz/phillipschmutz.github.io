@@ -2,4 +2,34 @@
 title: "GEO 6118 - Research Design"
 ---
 
+## Course Overview
+
+Introduces non-thesis-track Master's students to the essentials of designing and executing a research project in the environmental sciences using the scientific method. Students will design and complete a research project.
+
+
+## Student Learning Objectives (SLOs)
+-	Apply environmental science methods in solving a significant real-world problem. 
+-	Develop research and carry out an independent research project.
+-	Critically evaluate the academic literature in a subfield of environmental science.
+-	Present research work in oral, written, and graphic forms.
+
+
+## Course Materials
+- [Syllabus](https://docs.google.com/document/d/19GiVhRcyxlFoWhbqmVikUG-giZajk3LjSiDH4baz4eM/edit?usp=sharing)
+- [Calendar](https://docs.google.com/document/d/1PdHeOZXwn2nmHEd4qq-ZZlOSCjVCelmZ3rBh0B0tMRM/edit?usp=sharing)
+
+- Textbook: All readings are available on Canvas
+
+
+## Assignments & Final Grade Evaluation
+- Annotated Bibliography: 30% 
+- Final Research Report: 40%
+- Participation: 30%
+  - Summaries of papers read/question responses: 10%
+  - Peer-Reviews: 10%
+  - One-on-one sessions w/ Instructor & Statistics partner: 10%
+  
+  
+## Course Datasets:
+
 
