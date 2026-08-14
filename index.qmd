@@ -121,7 +121,8 @@ Teaching
 **Fall 2026 Courses:**
 [Research Design (GEO 6118)](courses/geo6118.qmd)
 [Geomorphology (GEO 3210)](courses/geo3210.qmd)
-[Geomorphology Lab (GEO 3210)](courses/geo3210lab.qmd)
+[Geomorphology Lab (GEO 3210L)](courses/geo3210lab.qmd)
+[Earth Science Lab (ESC 2000L)](courses/esc2000lab.qmd)
 :::
 :::
 

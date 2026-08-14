@@ -12,18 +12,8 @@ My research examines the interactions among coastal geomorphology, ecology, and 
 ::: {.publication-stats}
 
 ::: {.publication-card}
-<span class="stat-number">15</span>
+<span class="stat-number">16</span>
 <span class="stat-label">Peer-Reviewed<br>Publications</span>
-:::
-
-::: {.publication-card}
-<span class="stat-number">1</span>
-<span class="stat-label">Book Chapter</span>
-:::
-
-::: {.publication-card}
-<span class="stat-number">8</span>
-<span class="stat-label">Academic Journals</span>
 :::
 
 ::: {.publication-card}
@@ -32,7 +22,17 @@ My research examines the interactions among coastal geomorphology, ecology, and 
 :::
 
 ::: {.publication-card}
-<span class="stat-number">263</span>
+<span class="stat-number">8</span>
+<span class="stat-label">Academic Journals</span>
+:::
+
+::: {.publication-card}
+<span class="stat-number">8</span>
+<span class="stat-label">h-index</span>
+:::
+
+::: {.publication-card}
+<span class="stat-number">261</span>
 <span class="stat-label">Google Scholar<br>Citations</span>
 :::
 :::
@@ -81,7 +81,7 @@ Cox, D.<sup>G</sup>, **P.P. Schmutz**, and S.R. Seals
 ### Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida
 
 ::: {.publication-authors}
-Williams, M., and **P.P. Schmutz**
+Williams, M.<sup>G</sup>, and **P.P. Schmutz**
 :::
 
 ::: {.publication-source}
@@ -155,7 +155,7 @@ Research investigating wind flow, sediment transport, surface roughness, and the
 :::
 
 ::: {.publication-source}
-*Aeolian Research*, In Review.
+*Aeolian Research*, In Revision
 :::
 
 ::: {.publication-links}
