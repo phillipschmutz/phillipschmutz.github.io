@@ -27,8 +27,8 @@ My research examines the interactions among coastal geomorphology, ecology, and 
 :::
 
 ::: {.publication-card}
-<span class="stat-number">8</span>
-<span class="stat-label">h-index</span>
+<span class="stat-number">8 / 8</span>
+<span class="stat-label">h-index / i10-index</span>
 :::
 
 ::: {.publication-card}
