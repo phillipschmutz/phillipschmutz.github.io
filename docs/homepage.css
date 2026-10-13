@@ -355,10 +355,13 @@ body:has(.homepage) .quarto-title-block {
 }
 
 /* HIGHLIGHTS */
-.highlight-band {
+.highlights-grid {
   display: grid;
   grid-template-columns: 1fr;
   gap: 28px;
+}
+
+.highlight-band {
   margin-bottom: 55px;
   padding: 30px;
   background: var(--home-pale);
