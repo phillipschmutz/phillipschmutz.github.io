@@ -357,7 +357,7 @@ body:has(.homepage) .quarto-title-block {
 /* HIGHLIGHTS */
 .highlight-band {
   display: grid;
-  grid-template-columns: 1.05fr 0.95fr;
+  grid-template-columns: 1fr;
   gap: 28px;
   margin-bottom: 55px;
   padding: 30px;
