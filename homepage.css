@@ -394,7 +394,7 @@ HIGHLINGES BAND
 ---------------------------------------------------------*/
 .highlights-band {
   margin-top: 70px;
-  padding: 58px 0 62px;
+  padding: 20px 24px 30px;
   background: #eef3f6;
   border-top: 1px solid #dce4e9;
   border-bottom: 1px solid #dce4e9;
@@ -408,8 +408,14 @@ HIGHLINGES BAND
 
 .highlights-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 64px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 28px;
+}
+
+.highlight-column {
+  min-width: 0;
+  width: 100%;
+  max-width: none;
 }
 
 .highlight-column h3 {
@@ -438,6 +444,7 @@ HIGHLINGES BAND
 .highlight-column a {
   font-weight: 600;
   text-decoration: none;
+  overflow-wrap: anywhere;
 }
 
 .highlight-column a:hover {
@@ -445,15 +452,18 @@ HIGHLINGES BAND
 }
 
 @media (max-width: 800px) {
-  .highlights-grid {
-    grid-template-columns: 1fr;
-    gap: 38px;
+  .highlights-band {
+    padding: 20px;
   }
 
-  .highlights-band {
-    padding: 44px 0;
+  .highlights-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 28px;
   }
 }
+
+
+
 
 /*---------------------------------------------------------
 CONTANCT BANNER
